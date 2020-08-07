@@ -1,12 +1,12 @@
 
---- Job csv2gdx_converter.gms Start 08/07/20 11:02:25 24.9.2 r64480 WEX-WEI x86 64bit/MS Windows
+--- Job csv2gdx_converter.gms Start 08/07/20 16:36:33 24.9.2 r64480 WEX-WEI x86 64bit/MS Windows
 GAMS 24.9.2   Copyright (C) 1987-2017 GAMS Development. All rights reserved
 Licensee: Large MUD - 20 User License                    G170913:1610CS-WIN
           US Environmental Protection Agency, CGE Modeling Group 003DC13550
           License Admin: Eric Smith, smith.eric@epa.gov                    
 --- Starting compilation
 --- csv2gdx_converter.gms(6) 2 Mb
---- call csv2gdx CONVOLDqctn.csv id=d index=1..5 values=lastCol useHeader=y trace=0
+--- call csv2gdx CONVOLDqctn.csv id=d index=1..3 values=lastCol useHeader=y trace=0
 --- csv2gdx_converter.gms(7) 2 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\CONVOLDqctn.gdx
 --- csv2gdx_converter.gms(10) 3 Mb
@@ -18,11 +18,11 @@ Licensee: Large MUD - 20 User License                    G170913:1610CS-WIN
 --- csv2gdx_converter.gms(15) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\PrescriptiveBuildsNonQn.gdx
 --- csv2gdx_converter.gms(18) 3 Mb
---- call csv2gdx PrescriptiveBuildsnqct.csv id=d index=1..6 values=lastCol useHeader=y trace=0
+--- call csv2gdx PrescriptiveBuildsnqct.csv id=d index=1..4 values=lastCol useHeader=y trace=0
 --- csv2gdx_converter.gms(19) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\PrescriptiveBuildsnqct.gdx
 --- csv2gdx_converter.gms(22) 3 Mb
---- call csv2gdx PrescriptiveBuildsStorage.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- call csv2gdx PrescriptiveBuildsStora.csv id=d index=1..3 values=lastCol useHeader=y trace=0
 --- csv2gdx_converter.gms(23) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\PrescriptiveBuildsStorage.gdx
 --- csv2gdx_converter.gms(26) 3 Mb
@@ -30,24 +30,24 @@ Licensee: Large MUD - 20 User License                    G170913:1610CS-WIN
 --- csv2gdx_converter.gms(27) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\PrescriptiveBuildsWind.gdx
 --- csv2gdx_converter.gms(30) 3 Mb
---- call csv2gdx Nuke60RetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
+--- call csv2gdx Nuke60RetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
 --- csv2gdx_converter.gms(31) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\Nuke60RetireYear.gdx
 --- csv2gdx_converter.gms(34) 3 Mb
---- call csv2gdx Nuke80RetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
+--- call csv2gdx Nuke80RetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
 --- csv2gdx_converter.gms(35) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\Nuke80RetireYear.gdx
 --- csv2gdx_converter.gms(38) 3 Mb
---- call csv2gdx NukeRefRetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
+--- call csv2gdx NukeRefRetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
 --- csv2gdx_converter.gms(39) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\NukeRefRetireYear.gdx
---- csv2gdx_converter.gms(42) 4 Mb
---- call csv2gdx NukeEarlyRetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
---- csv2gdx_converter.gms(43) 4 Mb
+--- csv2gdx_converter.gms(42) 3 Mb
+--- call csv2gdx NukeEarlyRetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(43) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\NukeEarlyRetireYear.gdx
---- csv2gdx_converter.gms(46) 4 Mb
---- call csv2gdx PrescriptiveRet.csv id=d index=1..6 values=lastCol useHeader=y trace=0
---- csv2gdx_converter.gms(47) 4 Mb
+--- csv2gdx_converter.gms(46) 3 Mb
+--- call csv2gdx PrescriptiveRet.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(47) 3 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\PrescriptiveRet.gdx
 --- csv2gdx_converter.gms(50) 4 Mb
 --- call csv2gdx WindRetireExisting.csv id=d index=1..3 values=lastCol useHeader=y trace=0
@@ -58,7 +58,7 @@ Licensee: Large MUD - 20 User License                    G170913:1610CS-WIN
 --- csv2gdx_converter.gms(55) 4 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\WindRetirePrescribed.gdx
 --- csv2gdx_converter.gms(58) 4 Mb
---- call csv2gdx tmpCSPOct.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- call csv2gdx tmpCSPOct.csv id=d index=1..1 values=lastCol useHeader=y trace=0
 --- csv2gdx_converter.gms(59) 4 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\tmpCSPOct.gdx
 --- csv2gdx_converter.gms(62) 4 Mb
@@ -74,7 +74,7 @@ Licensee: Large MUD - 20 User License                    G170913:1610CS-WIN
 --- csv2gdx_converter.gms(71) 4 Mb
 --- GDXin=C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\tmpWTOi.gdx
 --- csv2gdx_converter.gms(78) 4 Mb
---- Starting execution: elapsed 0:00:06.937
+--- Starting execution: elapsed 0:00:07.393
 --- csv2gdx_converter.gms(74) 4 Mb
 --- GDX File C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\ExistingUnits_EIA-NEMS.gdx
 --- csv2gdx_converter.gms(76) 4 Mb
@@ -82,4 +82,4 @@ Licensee: Large MUD - 20 User License                    G170913:1610CS-WIN
 --- csv2gdx_converter.gms(78) 4 Mb
 --- GDX File C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_files\PrescriptiveRetirements_EIA-NEMS.gdx
 *** Status: Normal completion
---- Job csv2gdx_converter.gms Stop 08/07/20 11:02:32 elapsed 0:00:07.047
+--- Job csv2gdx_converter.gms Stop 08/07/20 16:36:40 elapsed 0:00:07.441

@@ -1,4 +1,4 @@
-GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 08/07/20 11:02:25 Page 1
+GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 08/07/20 16:36:33 Page 1
 G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
 C o m p i l a t i o n
 
@@ -90,7 +90,7 @@ GDXIN   C:\Users\CMARCY\Documents\ReEDS_plantfile\needs_project\creating_gdx_fil
   78  execute_unload 'PrescriptiveRetirements_EIA-NEMS.gdx' Nuke60RetireYear, Nu
       ke80RetireYear, NukeRefRetireYear, NukeEarlyRetireYear, PrescriptiveRet, W
       indRetireExisting, WindRetirePrescribed ;
-GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 08/07/20 11:02:25 Page 2
+GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 08/07/20 16:36:33 Page 2
 G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
 Include File Summary
 
@@ -101,7 +101,7 @@ Include File Summary
                                           ile\needs_project\creating_gdx_files\c
                                           sv2gdx_converter.gms
      2        6 CALL           1       6  csv2gdx CONVOLDqctn.csv id=d index=1..
-                                          5 values=lastCol useHeader=y trace=0
+                                          3 values=lastCol useHeader=y trace=0
      3        7 GDXIN          1       7  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\C
                                           ONVOLDqctn.gdx
@@ -118,14 +118,14 @@ Include File Summary
                                           ile\needs_project\creating_gdx_files\P
                                           rescriptiveBuildsNonQn.gdx
      8       18 CALL           1      18  csv2gdx PrescriptiveBuildsnqct.csv id=
-                                          d index=1..6 values=lastCol useHeader=
+                                          d index=1..4 values=lastCol useHeader=
                                           y trace=0
      9       19 GDXIN          1      19  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\P
                                           rescriptiveBuildsnqct.gdx
-    10       22 CALL           1      22  csv2gdx PrescriptiveBuildsStorage.csv 
-                                          id=d index=1..3 values=lastCol useHead
-                                          er=y trace=0
+    10       22 CALL           1      22  csv2gdx PrescriptiveBuildsStora.csv id
+                                          =d index=1..3 values=lastCol useHeader
+                                          =y trace=0
     11       23 GDXIN          1      23  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\P
                                           rescriptiveBuildsStorage.gdx
@@ -136,31 +136,31 @@ Include File Summary
                                           ile\needs_project\creating_gdx_files\P
                                           rescriptiveBuildsWind.gdx
     14       30 CALL           1      30  csv2gdx Nuke60RetireYear.csv id=d inde
-                                          x=1..6 values=lastCol useHeader=y trac
+                                          x=1..4 values=lastCol useHeader=y trac
                                           e=0
     15       31 GDXIN          1      31  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\N
                                           uke60RetireYear.gdx
     16       34 CALL           1      34  csv2gdx Nuke80RetireYear.csv id=d inde
-                                          x=1..6 values=lastCol useHeader=y trac
+                                          x=1..4 values=lastCol useHeader=y trac
                                           e=0
     17       35 GDXIN          1      35  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\N
                                           uke80RetireYear.gdx
     18       38 CALL           1      38  csv2gdx NukeRefRetireYear.csv id=d ind
-                                          ex=1..6 values=lastCol useHeader=y tra
+                                          ex=1..4 values=lastCol useHeader=y tra
                                           ce=0
     19       39 GDXIN          1      39  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\N
                                           ukeRefRetireYear.gdx
     20       42 CALL           1      42  csv2gdx NukeEarlyRetireYear.csv id=d i
-                                          ndex=1..6 values=lastCol useHeader=y t
+                                          ndex=1..4 values=lastCol useHeader=y t
                                           race=0
     21       43 GDXIN          1      43  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\N
                                           ukeEarlyRetireYear.gdx
     22       46 CALL           1      46  csv2gdx PrescriptiveRet.csv id=d index
-                                          =1..6 values=lastCol useHeader=y trace
+                                          =1..4 values=lastCol useHeader=y trace
                                           =0
     23       47 GDXIN          1      47  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\P
@@ -177,7 +177,7 @@ Include File Summary
     27       55 GDXIN          1      55  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\W
                                           indRetirePrescribed.gdx
-    28       58 CALL           1      58  csv2gdx tmpCSPOct.csv id=d index=1..3 
+    28       58 CALL           1      58  csv2gdx tmpCSPOct.csv id=d index=1..1 
                                           values=lastCol useHeader=y trace=0
     29       59 GDXIN          1      59  C:\Users\CMARCY\Documents\ReEDS_plantf
                                           ile\needs_project\creating_gdx_files\t
@@ -199,13 +199,13 @@ Include File Summary
                                           mpWTOi.gdx
 
 
-COMPILATION TIME     =        6.907 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
-GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 08/07/20 11:02:25 Page 3
+COMPILATION TIME     =        7.359 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
+GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 08/07/20 16:36:33 Page 3
 G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
 E x e c u t i o n
 
 
-EXECUTION TIME       =        0.015 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
+EXECUTION TIME       =        0.016 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
 
 
 USER: Large MUD - 20 User License                    G170913:1610CS-WIN

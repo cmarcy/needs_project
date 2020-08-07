@@ -3,7 +3,7 @@ parameters       CONVOLDqctn, import_store_power_cap_at_grid, PrescriptiveBuilds
                  Nuke80RetireYear, NukeRefRetireYear, NukeEarlyRetireYear, PrescriptiveRet,
                  tmpCSPOct, tmpDUPVOn, tmpUPVOn, tmpWTOi, WindRetireExisting, WindRetirePrescribed;
 
-$call csv2gdx CONVOLDqctn.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+$call csv2gdx CONVOLDqctn.csv id=d index=1..5 values=lastCol useHeader=y trace=0
 $gdxin CONVOLDqctn.gdx
 $load CONVOLDqctn=d
 
@@ -15,11 +15,11 @@ $call csv2gdx PrescriptiveBuildsNonQn.csv id=d index=1..3 values=lastCol useHead
 $gdxin PrescriptiveBuildsNonQn.gdx
 $load PrescriptiveBuildsNonQn=d
 
-$call csv2gdx PrescriptiveBuildsnqct.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+$call csv2gdx PrescriptiveBuildsnqct.csv id=d index=1..6 values=lastCol useHeader=y trace=0
 $gdxin PrescriptiveBuildsnqct.gdx
 $load PrescriptiveBuildsnqct=d
 
-$call csv2gdx PrescriptiveBuildsStora.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+$call csv2gdx PrescriptiveBuildsStorage.csv id=d index=1..3 values=lastCol useHeader=y trace=0
 $gdxin PrescriptiveBuildsStorage.gdx
 $load PrescriptiveBuildsStorage=d
 
@@ -27,23 +27,23 @@ $call csv2gdx PrescriptiveBuildsWind.csv id=d index=1..3 values=lastCol useHeade
 $gdxin PrescriptiveBuildsWind.gdx
 $load PrescriptiveBuildsWind=d
 
-$call csv2gdx Nuke60RetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+$call csv2gdx Nuke60RetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
 $gdxin Nuke60RetireYear.gdx
 $load Nuke60RetireYear=d
 
-$call csv2gdx Nuke80RetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+$call csv2gdx Nuke80RetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
 $gdxin Nuke80RetireYear.gdx
 $load Nuke80RetireYear=d
 
-$call csv2gdx NukeRefRetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+$call csv2gdx NukeRefRetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
 $gdxin NukeRefRetireYear.gdx
 $load NukeRefRetireYear=d
 
-$call csv2gdx NukeEarlyRetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+$call csv2gdx NukeEarlyRetireYear.csv id=d index=1..6 values=lastCol useHeader=y trace=0
 $gdxin NukeEarlyRetireYear.gdx
 $load NukeEarlyRetireYear=d
 
-$call csv2gdx PrescriptiveRet.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+$call csv2gdx PrescriptiveRet.csv id=d index=1..6 values=lastCol useHeader=y trace=0
 $gdxin PrescriptiveRet.gdx
 $load PrescriptiveRet=d
 
@@ -55,7 +55,7 @@ $call csv2gdx WindRetirePrescribed.csv id=d index=1..3 values=lastCol useHeader=
 $gdxin WindRetirePrescribed.gdx
 $load WindRetirePrescribed=d
 
-$call csv2gdx tmpCSPOct.csv id=d index=1..1 values=lastCol useHeader=y trace=0
+$call csv2gdx tmpCSPOct.csv id=d index=1..3 values=lastCol useHeader=y trace=0
 $gdxin tmpCSPOct.gdx
 $load tmpCSPOct=d
 
