@@ -1,0 +1,22 @@
+NEEDS_tech,ReEDS_tech
+O/G Steam,o-g-s
+Combustion Turbine,gas-CT
+Hydro,hydro
+Non-Fossil Waste,other
+Coal Steam,coal
+Municipal Solid Waste,lfill-gas
+Geothermal,geothermal
+Combined Cycle,gas-CC
+IGCC,coal-IGCC
+Biomass,biopower
+Fossil Waste,other
+Onshore Wind,wind-ons
+Landfill Gas,lfill-gas
+Pumped Storage,pumped-hydro
+Solar PV,UPV
+Solar Thermal,csp-ns
+Tires,other
+Energy Storage,battery
+Nuclear,nuclear
+Fuel Cell,o-g-s
+Offshore Wind,wind-ofs

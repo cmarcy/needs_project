@@ -1,0 +1,3255 @@
+County,State,resource_region,pca
+San Juan,Washington,2,p1
+Skagit,Washington,2,p1
+Whatcom,Washington,2,p1
+Island,Washington,3,p1
+King,Washington,3,p1
+Kitsap,Washington,3,p1
+Pierce,Washington,3,p1
+Snohomish,Washington,3,p1
+Thurston,Washington,3,p1
+Chelan,Washington,4,p1
+Kittitas,Washington,4,p1
+Clallam,Washington,1,p2
+Grays Harbor,Washington,1,p2
+Jefferson,Washington,1,p2
+Mason,Washington,1,p2
+Pacific,Washington,1,p2
+Wahkiakum,Washington,1,p2
+Clark,Washington,5,p2
+Cowlitz,Washington,5,p2
+Klickitat,Washington,5,p2
+Lewis,Washington,5,p2
+Skamania,Washington,5,p2
+Yakima,Washington,5,p2
+Asotin,Washington,9,p2
+Benton,Washington,9,p2
+Columbia,Washington,9,p2
+Garfield,Washington,9,p2
+Walla Walla,Washington,9,p2
+Okanogan,Washington,6,p3
+Adams,Washington,8,p3
+Ferry,Washington,8,p3
+Franklin,Washington,8,p3
+Lincoln,Washington,8,p3
+Pend Oreille,Washington,8,p3
+Spokane,Washington,8,p3
+Stevens,Washington,8,p3
+Whitman,Washington,8,p3
+Douglas,Washington,7,p4
+Grant,Washington,7,p4
+Clatsop,Oregon,10,p5
+Columbia,Oregon,10,p5
+Tillamook,Oregon,10,p5
+Multnomah,Oregon,11,p5
+Washington,Oregon,11,p5
+Clackamas,Oregon,12,p5
+Marion,Oregon,12,p5
+Yamhill,Oregon,12,p5
+Benton,Oregon,13,p5
+Lane,Oregon,13,p5
+Lincoln,Oregon,13,p5
+Linn,Oregon,13,p5
+Polk,Oregon,13,p5
+Gilliam,Oregon,16,p5
+Hood River,Oregon,16,p5
+Morrow,Oregon,16,p5
+Sherman,Oregon,16,p5
+Umatilla,Oregon,16,p5
+Union,Oregon,16,p5
+Wallowa,Oregon,16,p5
+Wasco,Oregon,16,p5
+Crook,Oregon,17,p5
+Deschutes,Oregon,17,p5
+Grant,Oregon,17,p5
+Jefferson,Oregon,17,p5
+Wheeler,Oregon,17,p5
+Coos,Oregon,14,p6
+Curry,Oregon,14,p6
+Josephine,Oregon,14,p6
+Douglas,Oregon,15,p6
+Jackson,Oregon,15,p6
+Klamath,Oregon,15,p6
+Harney,Oregon,18,p7
+Lake,Oregon,18,p7
+Baker,Oregon,19,p7
+Malheur,Oregon,19,p7
+Lassen,California,21,p8
+Modoc,California,21,p8
+Siskiyou,California,21,p8
+Del Norte,California,20,p9
+Humboldt,California,20,p9
+Mendocino,California,20,p9
+Shasta,California,20,p9
+Tehama,California,20,p9
+Trinity,California,20,p9
+Colusa,California,22,p9
+Glenn,California,22,p9
+Lake,California,22,p9
+Yolo,California,22,p9
+Butte,California,23,p9
+Sutter,California,23,p9
+Yuba,California,23,p9
+Alpine,California,24,p9
+Amador,California,24,p9
+Calaveras,California,24,p9
+El Dorado,California,24,p9
+Nevada,California,24,p9
+Placer,California,24,p9
+Plumas,California,24,p9
+Sierra,California,24,p9
+Alameda,California,25,p9
+Contra Costa,California,25,p9
+Marin,California,25,p9
+Napa,California,25,p9
+San Francisco,California,25,p9
+San Mateo,California,25,p9
+Santa Clara,California,25,p9
+Santa Cruz,California,25,p9
+Solano,California,25,p9
+Sonoma,California,25,p9
+Merced,California,26,p9
+Sacramento,California,26,p9
+San Joaquin,California,26,p9
+Stanislaus,California,26,p9
+Fresno,California,27,p9
+Madera,California,27,p9
+Mariposa,California,27,p9
+Tuolumne,California,27,p9
+Kings,California,29,p9
+Monterey,California,29,p9
+San Benito,California,29,p9
+San Luis Obispo,California,29,p9
+Santa Barbara,California,29,p9
+Inyo,California,28,p10
+Mono,California,28,p10
+Kern,California,30,p10
+Tulare,California,30,p10
+Los Angeles,California,31,p10
+Orange,California,31,p10
+Ventura,California,31,p10
+Imperial,California,33,p10
+Riverside,California,33,p10
+San Bernardino,California,33,p10
+San Diego,California,32,p11
+Carson City,Nevada,34,p12
+Douglas,Nevada,34,p12
+Lyon,Nevada,34,p12
+Storey,Nevada,34,p12
+Washoe,Nevada,34,p12
+Eureka,Nevada,35,p12
+Humboldt,Nevada,35,p12
+Lander,Nevada,35,p12
+Pershing,Nevada,35,p12
+Elko,Nevada,36,p12
+White Pine,Nevada,36,p12
+Churchill,Nevada,37,p12
+Esmeralda,Nevada,37,p12
+Mineral,Nevada,37,p12
+Nye,Nevada,38,p12
+Lincoln,Nevada,39,p13
+Clark,Nevada,40,p13
+Benewah,Idaho,41,p14
+Bonner,Idaho,41,p14
+Boundary,Idaho,41,p14
+Kootenai,Idaho,41,p14
+Latah,Idaho,41,p14
+Lewis,Idaho,41,p14
+Nez Perce,Idaho,41,p14
+Adams,Idaho,42,p15
+Boise,Idaho,42,p15
+Clearwater,Idaho,42,p15
+Gem,Idaho,42,p15
+Idaho,Idaho,42,p15
+Payette,Idaho,42,p15
+Shoshone,Idaho,42,p15
+Valley,Idaho,42,p15
+Washington,Idaho,42,p15
+Butte,Idaho,43,p15
+Custer,Idaho,43,p15
+Lemhi,Idaho,43,p15
+Ada,Idaho,44,p15
+Canyon,Idaho,44,p15
+Elmore,Idaho,44,p15
+Gooding,Idaho,44,p15
+Owyhee,Idaho,44,p15
+Blaine,Idaho,45,p15
+Camas,Idaho,45,p15
+Jerome,Idaho,45,p15
+Lincoln,Idaho,45,p15
+Minidoka,Idaho,45,p15
+Bannock,Idaho,46,p16
+Cassia,Idaho,46,p16
+Oneida,Idaho,46,p16
+Power,Idaho,46,p16
+Twin Falls,Idaho,46,p16
+Bear Lake,Idaho,47,p16
+Bingham,Idaho,47,p16
+Bonneville,Idaho,47,p16
+Caribou,Idaho,47,p16
+Clark,Idaho,47,p16
+Franklin,Idaho,47,p16
+Fremont,Idaho,47,p16
+Jefferson,Idaho,47,p16
+Madison,Idaho,47,p16
+Teton,Idaho,47,p16
+Flathead,Montana,60,p17
+Lincoln,Montana,60,p17
+Lake,Montana,61,p17
+Mineral,Montana,61,p17
+Sanders,Montana,61,p17
+Granite,Montana,62,p17
+Missoula,Montana,62,p17
+Powell,Montana,62,p17
+Ravalli,Montana,62,p17
+Beaverhead,Montana,63,p17
+Broadwater,Montana,63,p17
+Deer Lodge,Montana,63,p17
+Jefferson,Montana,63,p17
+Madison,Montana,63,p17
+Silver Bow,Montana,63,p17
+Cascade,Montana,64,p18
+Glacier,Montana,64,p18
+Lewis And Clark,Montana,64,p18
+Lewis & Clark,Montana,64,p18
+Pondera,Montana,64,p18
+Teton,Montana,64,p18
+Toole,Montana,64,p18
+Blaine,Montana,65,p18
+Chouteau,Montana,65,p18
+Hill,Montana,65,p18
+Liberty,Montana,65,p18
+Phillips,Montana,65,p18
+Big Horn,Montana,67,p18
+Carbon,Montana,67,p18
+Gallatin,Montana,67,p18
+Meagher,Montana,67,p18
+Park,Montana,67,p18
+Stillwater,Montana,67,p18
+Sweet Grass,Montana,67,p18
+Garfield,Montana,68,p19
+Valley,Montana,68,p19
+Fergus,Montana,66,p20
+Golden Valley,Montana,66,p20
+Judith Basin,Montana,66,p20
+Musselshell,Montana,66,p20
+Petroleum,Montana,66,p20
+Wheatland,Montana,66,p20
+Yellowstone,Montana,66,p20
+Powder River,Montana,69,p20
+Rosebud,Montana,69,p20
+Treasure,Montana,69,p20
+Big Horn,Wyoming,70,p21
+Fremont,Wyoming,70,p21
+Hot Springs,Wyoming,70,p21
+Park,Wyoming,70,p21
+Teton,Wyoming,70,p21
+Washakie,Wyoming,70,p21
+Lincoln,Wyoming,71,p21
+Sublette,Wyoming,71,p21
+Sweetwater,Wyoming,71,p21
+Uinta,Wyoming,71,p21
+Johnson,Wyoming,72,p22
+Sheridan,Wyoming,72,p22
+Campbell,Wyoming,73,p23
+Crook,Wyoming,73,p23
+Weston,Wyoming,73,p23
+Albany,Wyoming,74,p24
+Carbon,Wyoming,74,p24
+Converse,Wyoming,74,p24
+Goshen,Wyoming,74,p24
+Laramie,Wyoming,74,p24
+Natrona,Wyoming,74,p24
+Niobrara,Wyoming,74,p24
+Platte,Wyoming,74,p24
+Beaver,Utah,48,p25
+Box Elder,Utah,48,p25
+Iron,Utah,48,p25
+Juab,Utah,48,p25
+Millard,Utah,48,p25
+Tooele,Utah,48,p25
+Washington,Utah,48,p25
+Cache,Utah,49,p25
+Davis,Utah,49,p25
+Salt Lake,Utah,49,p25
+Utah,Utah,49,p25
+Weber,Utah,49,p25
+Carbon,Utah,51,p25
+Emery,Utah,51,p25
+Garfield,Utah,51,p25
+Kane,Utah,51,p25
+Piute,Utah,51,p25
+Sanpete,Utah,51,p25
+Sevier,Utah,51,p25
+Wayne,Utah,51,p25
+Grand,Utah,52,p25
+San Juan,Utah,52,p25
+Daggett,Utah,50,p26
+Duchesne,Utah,50,p26
+Morgan,Utah,50,p26
+Rich,Utah,50,p26
+Summit,Utah,50,p26
+Uintah,Utah,50,p26
+Wasatch,Utah,50,p26
+Mohave,Arizona,53,p27
+Coconino,Arizona,54,p28
+Navajo,Arizona,54,p28
+La Paz,Arizona,56,p28
+Yavapai,Arizona,56,p28
+Yuma,Arizona,56,p28
+Maricopa,Arizona,57,p28
+Pinal,Arizona,57,p28
+Cochise,Arizona,59,p28
+Gila,Arizona,59,p28
+Graham,Arizona,59,p28
+Greenlee,Arizona,59,p28
+Apache,Arizona,55,p29
+Pima,Arizona,58,p30
+Santa Cruz,Arizona,58,p30
+Cibola,New Mexico,88,p31
+Mckinley,New Mexico,88,p31
+San Juan,New Mexico,88,p31
+Valencia,New Mexico,88,p31
+Bernalillo,New Mexico,89,p31
+Sandoval,New Mexico,89,p31
+Catron,New Mexico,90,p31
+Dona Ana,New Mexico,90,p31
+Grant,New Mexico,90,p31
+Hidalgo,New Mexico,90,p31
+Luna,New Mexico,90,p31
+Sierra,New Mexico,90,p31
+Socorro,New Mexico,90,p31
+Los Alamos,New Mexico,91,p31
+Rio Arriba,New Mexico,91,p31
+Santa Fe,New Mexico,91,p31
+Taos,New Mexico,91,p31
+Lincoln,New Mexico,92,p31
+Otero,New Mexico,92,p31
+Torrance,New Mexico,92,p31
+Colfax,New Mexico,93,p31
+De Baca,New Mexico,93,p31
+Guadalupe,New Mexico,93,p31
+Harding,New Mexico,93,p31
+Mora,New Mexico,93,p31
+San Miguel,New Mexico,93,p31
+Union,New Mexico,93,p31
+Butte,South Dakota,95,p32
+Custer,South Dakota,95,p32
+Fall River,South Dakota,95,p32
+Lawrence,South Dakota,95,p32
+Pennington,South Dakota,95,p32
+Moffat,Colorado,75,p33
+Routt,Colorado,75,p33
+Garfield,Colorado,76,p33
+Mesa,Colorado,76,p33
+Pitkin,Colorado,76,p33
+Rio Blanco,Colorado,76,p33
+Larimer,Colorado,79,p33
+Boulder,Colorado,80,p33
+Gilpin,Colorado,80,p33
+Grand,Colorado,80,p33
+Jackson,Colorado,80,p33
+Clear Creek,Colorado,81,p33
+Eagle,Colorado,81,p33
+Lake,Colorado,81,p33
+Park,Colorado,81,p33
+Summit,Colorado,81,p33
+Teller,Colorado,81,p33
+Adams,Colorado,82,p33
+Arapahoe,Colorado,82,p33
+Broomfield,Colorado,82,p33
+Denver,Colorado,82,p33
+Douglas,Colorado,82,p33
+Jefferson,Colorado,82,p33
+Logan,Colorado,85,p33
+Morgan,Colorado,85,p33
+Phillips,Colorado,85,p33
+Sedgwick,Colorado,85,p33
+Washington,Colorado,85,p33
+Weld,Colorado,85,p33
+Yuma,Colorado,85,p33
+Delta,Colorado,77,p34
+Dolores,Colorado,77,p34
+La Plata,Colorado,77,p34
+Montezuma,Colorado,77,p34
+Montrose,Colorado,77,p34
+Ouray,Colorado,77,p34
+San Juan,Colorado,77,p34
+San Miguel,Colorado,77,p34
+Alamosa,Colorado,78,p34
+Archuleta,Colorado,78,p34
+Chaffee,Colorado,78,p34
+Conejos,Colorado,78,p34
+Costilla,Colorado,78,p34
+Gunnison,Colorado,78,p34
+Hinsdale,Colorado,78,p34
+Mineral,Colorado,78,p34
+Rio Grande,Colorado,78,p34
+Saguache,Colorado,78,p34
+El Paso,Colorado,83,p34
+Custer,Colorado,84,p34
+Fremont,Colorado,84,p34
+Pueblo,Colorado,84,p34
+Cheyenne,Colorado,86,p34
+Crowley,Colorado,86,p34
+Elbert,Colorado,86,p34
+Kiowa,Colorado,86,p34
+Kit Carson,Colorado,86,p34
+Lincoln,Colorado,86,p34
+Baca,Colorado,87,p34
+Bent,Colorado,87,p34
+Huerfano,Colorado,87,p34
+Las Animas,Colorado,87,p34
+Otero,Colorado,87,p34
+Prowers,Colorado,87,p34
+Carter,Montana,96,p35
+Custer,Montana,96,p35
+Daniels,Montana,96,p35
+Dawson,Montana,96,p35
+Fallon,Montana,96,p35
+Mccone,Montana,96,p35
+Prairie,Montana,96,p35
+Richland,Montana,96,p35
+Roosevelt,Montana,96,p35
+Sheridan,Montana,96,p35
+Wibaux,Montana,96,p35
+Burke,North Dakota,97,p36
+Divide,North Dakota,97,p36
+Mckenzie,North Dakota,97,p36
+Mountrail,North Dakota,97,p36
+Renville,North Dakota,97,p36
+Williams,North Dakota,97,p36
+Adams,North Dakota,98,p36
+Billings,North Dakota,98,p36
+Bowman,North Dakota,98,p36
+Dunn,North Dakota,98,p36
+Golden Valley,North Dakota,98,p36
+Hettinger,North Dakota,98,p36
+Slope,North Dakota,98,p36
+Stark,North Dakota,98,p36
+Burleigh,North Dakota,100,p36
+Mercer,North Dakota,100,p36
+Morton,North Dakota,100,p36
+Oliver,North Dakota,100,p36
+Dickey,North Dakota,101,p36
+Emmons,North Dakota,101,p36
+Grant,North Dakota,101,p36
+Logan,North Dakota,101,p36
+Mcintosh,North Dakota,101,p36
+Sioux,North Dakota,101,p36
+Benson,North Dakota,99,p37
+Bottineau,North Dakota,99,p37
+Cavalier,North Dakota,99,p37
+Eddy,North Dakota,99,p37
+Foster,North Dakota,99,p37
+Grand Forks,North Dakota,99,p37
+Griggs,North Dakota,99,p37
+Mchenry,North Dakota,99,p37
+Mclean,North Dakota,99,p37
+Nelson,North Dakota,99,p37
+Pembina,North Dakota,99,p37
+Pierce,North Dakota,99,p37
+Ramsey,North Dakota,99,p37
+Rolette,North Dakota,99,p37
+Sheridan,North Dakota,99,p37
+Steele,North Dakota,99,p37
+Towner,North Dakota,99,p37
+Walsh,North Dakota,99,p37
+Ward,North Dakota,99,p37
+Wells,North Dakota,99,p37
+Barnes,North Dakota,102,p37
+Kidder,North Dakota,102,p37
+Lamoure,North Dakota,102,p37
+Ransom,North Dakota,102,p37
+Richland,North Dakota,102,p37
+Sargent,North Dakota,102,p37
+Stutsman,North Dakota,102,p37
+Cass,North Dakota,103,p37
+Traill,North Dakota,103,p37
+Corson,South Dakota,104,p38
+Harding,South Dakota,104,p38
+Perkins,South Dakota,104,p38
+Dewey,South Dakota,105,p38
+Meade,South Dakota,105,p38
+Potter,South Dakota,105,p38
+Sully,South Dakota,105,p38
+Walworth,South Dakota,105,p38
+Ziebach,South Dakota,105,p38
+Haakon,South Dakota,106,p38
+Jones,South Dakota,106,p38
+Lyman,South Dakota,106,p38
+Stanley,South Dakota,106,p38
+Bennett,South Dakota,107,p38
+Jackson,South Dakota,107,p38
+Shannon,South Dakota,107,p38
+Gregory,South Dakota,108,p38
+Mellette,South Dakota,108,p38
+Todd,South Dakota,108,p38
+Tripp,South Dakota,108,p38
+Beadle,South Dakota,109,p38
+Brown,South Dakota,109,p38
+Campbell,South Dakota,109,p38
+Clark,South Dakota,109,p38
+Codington,South Dakota,109,p38
+Edmunds,South Dakota,109,p38
+Faulk,South Dakota,109,p38
+Mcpherson,South Dakota,109,p38
+Spink,South Dakota,109,p38
+Aurora,South Dakota,110,p38
+Brule,South Dakota,110,p38
+Buffalo,South Dakota,110,p38
+Davison,South Dakota,110,p38
+Hand,South Dakota,110,p38
+Hughes,South Dakota,110,p38
+Hyde,South Dakota,110,p38
+Jerauld,South Dakota,110,p38
+Sanborn,South Dakota,110,p38
+Bon Homme,South Dakota,111,p38
+Charles Mix,South Dakota,111,p38
+Douglas,South Dakota,111,p38
+Hutchinson,South Dakota,111,p38
+Yankton,South Dakota,111,p38
+Brookings,South Dakota,112,p38
+Day,South Dakota,112,p38
+Deuel,South Dakota,112,p38
+Grant,South Dakota,112,p38
+Hamlin,South Dakota,112,p38
+Kingsbury,South Dakota,112,p38
+Marshall,South Dakota,112,p38
+Roberts,South Dakota,112,p38
+Clay,South Dakota,113,p38
+Hanson,South Dakota,113,p38
+Lake,South Dakota,113,p38
+Lincoln,South Dakota,113,p38
+Mccook,South Dakota,113,p38
+Miner,South Dakota,113,p38
+Minnehaha,South Dakota,113,p38
+Moody,South Dakota,113,p38
+Turner,South Dakota,113,p38
+Union,South Dakota,113,p38
+Banner,Nebraska,114,p39
+Box Butte,Nebraska,114,p39
+Cheyenne,Nebraska,114,p39
+Dawes,Nebraska,114,p39
+Kimball,Nebraska,114,p39
+Morrill,Nebraska,114,p39
+Scotts Bluff,Nebraska,114,p39
+Sioux,Nebraska,114,p39
+Arthur,Nebraska,115,p39
+Chase,Nebraska,115,p39
+Deuel,Nebraska,115,p39
+Dundy,Nebraska,115,p39
+Garden,Nebraska,115,p39
+Grant,Nebraska,115,p39
+Keith,Nebraska,115,p39
+Perkins,Nebraska,115,p39
+Sheridan,Nebraska,115,p39
+Blaine,Nebraska,116,p40
+Boyd,Nebraska,116,p40
+Brown,Nebraska,116,p40
+Cherry,Nebraska,116,p40
+Custer,Nebraska,116,p40
+Garfield,Nebraska,116,p40
+Holt,Nebraska,116,p40
+Hooker,Nebraska,116,p40
+Keya Paha,Nebraska,116,p40
+Logan,Nebraska,116,p40
+Loup,Nebraska,116,p40
+Mcpherson,Nebraska,116,p40
+Rock,Nebraska,116,p40
+Thomas,Nebraska,116,p40
+Valley,Nebraska,116,p40
+Wheeler,Nebraska,116,p40
+Adams,Nebraska,117,p40
+Buffalo,Nebraska,117,p40
+Butler,Nebraska,117,p40
+Clay,Nebraska,117,p40
+Dawson,Nebraska,117,p40
+Fillmore,Nebraska,117,p40
+Franklin,Nebraska,117,p40
+Frontier,Nebraska,117,p40
+Furnas,Nebraska,117,p40
+Gage,Nebraska,117,p40
+Gosper,Nebraska,117,p40
+Hall,Nebraska,117,p40
+Hamilton,Nebraska,117,p40
+Harlan,Nebraska,117,p40
+Hayes,Nebraska,117,p40
+Hitchcock,Nebraska,117,p40
+Howard,Nebraska,117,p40
+Jefferson,Nebraska,117,p40
+Kearney,Nebraska,117,p40
+Lincoln,Nebraska,117,p40
+Merrick,Nebraska,117,p40
+Nuckolls,Nebraska,117,p40
+Phelps,Nebraska,117,p40
+Polk,Nebraska,117,p40
+Red Willow,Nebraska,117,p40
+Saline,Nebraska,117,p40
+Seward,Nebraska,117,p40
+Sherman,Nebraska,117,p40
+Thayer,Nebraska,117,p40
+Webster,Nebraska,117,p40
+York,Nebraska,117,p40
+Antelope,Nebraska,118,p40
+Boone,Nebraska,118,p40
+Cedar,Nebraska,118,p40
+Cuming,Nebraska,118,p40
+Dakota,Nebraska,118,p40
+Dixon,Nebraska,118,p40
+Greeley,Nebraska,118,p40
+Knox,Nebraska,118,p40
+Madison,Nebraska,118,p40
+Nance,Nebraska,118,p40
+Pierce,Nebraska,118,p40
+Platte,Nebraska,118,p40
+Stanton,Nebraska,118,p40
+Thurston,Nebraska,118,p40
+Wayne,Nebraska,118,p40
+Burt,Nebraska,119,p41
+Cass,Nebraska,119,p41
+Colfax,Nebraska,119,p41
+Dodge,Nebraska,119,p41
+Douglas,Nebraska,119,p41
+Johnson,Nebraska,119,p41
+Lancaster,Nebraska,119,p41
+Nemaha,Nebraska,119,p41
+Otoe,Nebraska,119,p41
+Pawnee,Nebraska,119,p41
+Richardson,Nebraska,119,p41
+Sarpy,Nebraska,119,p41
+Saunders,Nebraska,119,p41
+Washington,Nebraska,119,p41
+Becker,Minnesota,120,p42
+Beltrami,Minnesota,120,p42
+Clay,Minnesota,120,p42
+Clearwater,Minnesota,120,p42
+Kittson,Minnesota,120,p42
+Koochiching,Minnesota,120,p42
+Lake Of The Woods,Minnesota,120,p42
+Lake of the Woods,Minnesota,120,p42
+Mahnomen,Minnesota,120,p42
+Marshall,Minnesota,120,p42
+Norman,Minnesota,120,p42
+Pennington,Minnesota,120,p42
+Polk,Minnesota,120,p42
+Red Lake,Minnesota,120,p42
+Roseau,Minnesota,120,p42
+Big Stone,Minnesota,121,p43
+Douglas,Minnesota,121,p43
+Grant,Minnesota,121,p43
+Kandiyohi,Minnesota,121,p43
+Otter Tail,Minnesota,121,p43
+Pope,Minnesota,121,p43
+Stevens,Minnesota,121,p43
+Swift,Minnesota,121,p43
+Traverse,Minnesota,121,p43
+Wilkin,Minnesota,121,p43
+Aitkin,Minnesota,124,p43
+Cass,Minnesota,124,p43
+Crow Wing,Minnesota,124,p43
+Hubbard,Minnesota,124,p43
+Meeker,Minnesota,124,p43
+Morrison,Minnesota,124,p43
+Stearns,Minnesota,124,p43
+Todd,Minnesota,124,p43
+Wadena,Minnesota,124,p43
+Cook,Minnesota,125,p43
+Itasca,Minnesota,125,p43
+Lake,Minnesota,125,p43
+St. Louis,Minnesota,125,p43
+Saint Louis,Minnesota,125,p43
+Benton,Minnesota,126,p43
+Carlton,Minnesota,126,p43
+Chisago,Minnesota,126,p43
+Isanti,Minnesota,126,p43
+Kanabec,Minnesota,126,p43
+Mille Lacs,Minnesota,126,p43
+Pine,Minnesota,126,p43
+Sherburne,Minnesota,126,p43
+Wright,Minnesota,126,p43
+Anoka,Minnesota,127,p43
+Carver,Minnesota,127,p43
+Dakota,Minnesota,127,p43
+Hennepin,Minnesota,127,p43
+Ramsey,Minnesota,127,p43
+Scott,Minnesota,127,p43
+Washington,Minnesota,127,p43
+Dodge,Minnesota,128,p43
+Goodhue,Minnesota,128,p43
+Le Sueur,Minnesota,128,p43
+Mcleod,Minnesota,128,p43
+Olmsted,Minnesota,128,p43
+Rice,Minnesota,128,p43
+Sibley,Minnesota,128,p43
+Steele,Minnesota,128,p43
+Wabasha,Minnesota,128,p43
+Winona,Minnesota,128,p43
+Chippewa,Minnesota,122,p44
+Lac Qui Parle,Minnesota,122,p44
+Redwood,Minnesota,122,p44
+Renville,Minnesota,122,p44
+Yellow Medicine,Minnesota,122,p44
+Lincoln,Minnesota,123,p44
+Lyon,Minnesota,123,p44
+Murray,Minnesota,123,p44
+Nobles,Minnesota,123,p44
+Pipestone,Minnesota,123,p44
+Rock,Minnesota,123,p44
+Buena Vista,Iowa,132,p45
+Calhoun,Iowa,132,p45
+Cerro Gordo,Iowa,132,p45
+Cherokee,Iowa,132,p45
+Clay,Iowa,132,p45
+Dickinson,Iowa,132,p45
+Emmet,Iowa,132,p45
+Franklin,Iowa,132,p45
+Hancock,Iowa,132,p45
+Humboldt,Iowa,132,p45
+Ida,Iowa,132,p45
+Kossuth,Iowa,132,p45
+Lyon,Iowa,132,p45
+O'Brien,Iowa,132,p45
+Obrien,Iowa,132,p45
+Osceola,Iowa,132,p45
+Palo Alto,Iowa,132,p45
+Plymouth,Iowa,132,p45
+Pocahontas,Iowa,132,p45
+Sac,Iowa,132,p45
+Sioux,Iowa,132,p45
+Webster,Iowa,132,p45
+Winnebago,Iowa,132,p45
+Worth,Iowa,132,p45
+Wright,Iowa,132,p45
+Audubon,Iowa,134,p45
+Carroll,Iowa,134,p45
+Crawford,Iowa,134,p45
+Fremont,Iowa,134,p45
+Harrison,Iowa,134,p45
+Mills,Iowa,134,p45
+Monona,Iowa,134,p45
+Montgomery,Iowa,134,p45
+Page,Iowa,134,p45
+Pottawattamie,Iowa,134,p45
+Shelby,Iowa,134,p45
+Taylor,Iowa,134,p45
+Woodbury,Iowa,134,p45
+Ashland,Wisconsin,129,p46
+Bayfield,Wisconsin,129,p46
+Douglas,Wisconsin,129,p46
+Iron,Wisconsin,129,p46
+Barron,Wisconsin,130,p46
+Burnett,Wisconsin,130,p46
+Chippewa,Wisconsin,130,p46
+Clark,Wisconsin,130,p46
+Dunn,Wisconsin,130,p46
+Eau Claire,Wisconsin,130,p46
+Pierce,Wisconsin,130,p46
+Polk,Wisconsin,130,p46
+Price,Wisconsin,130,p46
+Rusk,Wisconsin,130,p46
+Sawyer,Wisconsin,130,p46
+St. Croix,Wisconsin,130,p46
+Saint Croix,Wisconsin,130,p46
+Taylor,Wisconsin,130,p46
+Washburn,Wisconsin,130,p46
+Buffalo,Wisconsin,131,p46
+La Crosse,Wisconsin,131,p46
+Pepin,Wisconsin,131,p46
+Trempealeau,Wisconsin,131,p46
+Chaves,New Mexico,148,p47
+Curry,New Mexico,148,p47
+Eddy,New Mexico,148,p47
+Lea,New Mexico,148,p47
+Quay,New Mexico,148,p47
+Roosevelt,New Mexico,148,p47
+Bailey,Texas,149,p48
+Cochran,Texas,149,p48
+Floyd,Texas,149,p48
+Gaines,Texas,149,p48
+Garza,Texas,149,p48
+Hale,Texas,149,p48
+Hockley,Texas,149,p48
+Lamb,Texas,149,p48
+Lubbock,Texas,149,p48
+Lynn,Texas,149,p48
+Parmer,Texas,149,p48
+Terry,Texas,149,p48
+Yoakum,Texas,149,p48
+Armstrong,Texas,150,p48
+Carson,Texas,150,p48
+Castro,Texas,150,p48
+Collingsworth,Texas,150,p48
+Dallam,Texas,150,p48
+Deaf Smith,Texas,150,p48
+Donley,Texas,150,p48
+Gray,Texas,150,p48
+Hansford,Texas,150,p48
+Hartley,Texas,150,p48
+Hemphill,Texas,150,p48
+Hutchinson,Texas,150,p48
+Lipscomb,Texas,150,p48
+Moore,Texas,150,p48
+Ochiltree,Texas,150,p48
+Oldham,Texas,150,p48
+Potter,Texas,150,p48
+Randall,Texas,150,p48
+Roberts,Texas,150,p48
+Sherman,Texas,150,p48
+Swisher,Texas,150,p48
+Wheeler,Texas,150,p48
+Beaver,Oklahoma,152,p49
+Cimarron,Oklahoma,152,p49
+Texas,Oklahoma,152,p49
+Alfalfa,Oklahoma,153,p50
+Blaine,Oklahoma,153,p50
+Custer,Oklahoma,153,p50
+Dewey,Oklahoma,153,p50
+Ellis,Oklahoma,153,p50
+Harper,Oklahoma,153,p50
+Major,Oklahoma,153,p50
+Roger Mills,Oklahoma,153,p50
+Woods,Oklahoma,153,p50
+Woodward,Oklahoma,153,p50
+Beckham,Oklahoma,154,p50
+Caddo,Oklahoma,154,p50
+Carter,Oklahoma,154,p50
+Comanche,Oklahoma,154,p50
+Cotton,Oklahoma,154,p50
+Garvin,Oklahoma,154,p50
+Greer,Oklahoma,154,p50
+Harmon,Oklahoma,154,p50
+Jackson,Oklahoma,154,p50
+Jefferson,Oklahoma,154,p50
+Kiowa,Oklahoma,154,p50
+Love,Oklahoma,154,p50
+Murray,Oklahoma,154,p50
+Stephens,Oklahoma,154,p50
+Tillman,Oklahoma,154,p50
+Washita,Oklahoma,154,p50
+Garfield,Oklahoma,155,p50
+Grant,Oklahoma,155,p50
+Kay,Oklahoma,155,p50
+Noble,Oklahoma,155,p50
+Pawnee,Oklahoma,155,p50
+Payne,Oklahoma,155,p50
+Canadian,Oklahoma,156,p50
+Cleveland,Oklahoma,156,p50
+Grady,Oklahoma,156,p50
+Kingfisher,Oklahoma,156,p50
+Lincoln,Oklahoma,156,p50
+Logan,Oklahoma,156,p50
+Mcclain,Oklahoma,156,p50
+Oklahoma,Oklahoma,156,p50
+Pottawatomie,Oklahoma,156,p50
+Atoka,Oklahoma,158,p50
+Bryan,Oklahoma,158,p50
+Choctaw,Oklahoma,158,p50
+Coal,Oklahoma,158,p50
+Haskell,Oklahoma,158,p50
+Hughes,Oklahoma,158,p50
+Johnston,Oklahoma,158,p50
+Latimer,Oklahoma,158,p50
+Le Flore,Oklahoma,158,p50
+Marshall,Oklahoma,158,p50
+Mccurtain,Oklahoma,158,p50
+Mcintosh,Oklahoma,158,p50
+Okfuskee,Oklahoma,158,p50
+Pittsburg,Oklahoma,158,p50
+Pontotoc,Oklahoma,158,p50
+Pushmataha,Oklahoma,158,p50
+Seminole,Oklahoma,158,p50
+Sequoyah,Oklahoma,158,p50
+Adair,Oklahoma,157,p51
+Cherokee,Oklahoma,157,p51
+Craig,Oklahoma,157,p51
+Creek,Oklahoma,157,p51
+Delaware,Oklahoma,157,p51
+Mayes,Oklahoma,157,p51
+Muskogee,Oklahoma,157,p51
+Nowata,Oklahoma,157,p51
+Okmulgee,Oklahoma,157,p51
+Osage,Oklahoma,157,p51
+Ottawa,Oklahoma,157,p51
+Rogers,Oklahoma,157,p51
+Tulsa,Oklahoma,157,p51
+Wagoner,Oklahoma,157,p51
+Washington,Oklahoma,157,p51
+Cheyenne,Kansas,135,p52
+Decatur,Kansas,135,p52
+Finney,Kansas,135,p52
+Gove,Kansas,135,p52
+Graham,Kansas,135,p52
+Grant,Kansas,135,p52
+Greeley,Kansas,135,p52
+Hamilton,Kansas,135,p52
+Kearny,Kansas,135,p52
+Lane,Kansas,135,p52
+Logan,Kansas,135,p52
+Morton,Kansas,135,p52
+Norton,Kansas,135,p52
+Rawlins,Kansas,135,p52
+Scott,Kansas,135,p52
+Sheridan,Kansas,135,p52
+Sherman,Kansas,135,p52
+Stanton,Kansas,135,p52
+Stevens,Kansas,135,p52
+Thomas,Kansas,135,p52
+Trego,Kansas,135,p52
+Wallace,Kansas,135,p52
+Wichita,Kansas,135,p52
+Barber,Kansas,136,p53
+Barton,Kansas,136,p53
+Clark,Kansas,136,p53
+Comanche,Kansas,136,p53
+Edwards,Kansas,136,p53
+Ford,Kansas,136,p53
+Gray,Kansas,136,p53
+Haskell,Kansas,136,p53
+Hodgeman,Kansas,136,p53
+Kiowa,Kansas,136,p53
+Meade,Kansas,136,p53
+Ness,Kansas,136,p53
+Pawnee,Kansas,136,p53
+Pratt,Kansas,136,p53
+Rush,Kansas,136,p53
+Seward,Kansas,136,p53
+Stafford,Kansas,136,p53
+Cloud,Kansas,137,p53
+Ellis,Kansas,137,p53
+Jewell,Kansas,137,p53
+Lincoln,Kansas,137,p53
+Mitchell,Kansas,137,p53
+Osborne,Kansas,137,p53
+Ottawa,Kansas,137,p53
+Phillips,Kansas,137,p53
+Republic,Kansas,137,p53
+Rooks,Kansas,137,p53
+Russell,Kansas,137,p53
+Smith,Kansas,137,p53
+Washington,Kansas,137,p53
+Dickinson,Kansas,138,p53
+Ellsworth,Kansas,138,p53
+Harvey,Kansas,138,p53
+Marion,Kansas,138,p53
+Mcpherson,Kansas,138,p53
+Reno,Kansas,138,p53
+Rice,Kansas,138,p53
+Saline,Kansas,138,p53
+Butler,Kansas,139,p53
+Harper,Kansas,139,p53
+Kingman,Kansas,139,p53
+Sedgwick,Kansas,139,p53
+Sumner,Kansas,139,p53
+Clay,Kansas,140,p53
+Douglas,Kansas,140,p53
+Franklin,Kansas,140,p53
+Jackson,Kansas,140,p53
+Marshall,Kansas,140,p53
+Nemaha,Kansas,140,p53
+Osage,Kansas,140,p53
+Pottawatomie,Kansas,140,p53
+Riley,Kansas,140,p53
+Shawnee,Kansas,140,p53
+Wabaunsee,Kansas,140,p53
+Chase,Kansas,141,p53
+Chautauqua,Kansas,141,p53
+Cowley,Kansas,141,p53
+Elk,Kansas,141,p53
+Geary,Kansas,141,p53
+Greenwood,Kansas,141,p53
+Lyon,Kansas,141,p53
+Morris,Kansas,141,p53
+Atchison,Kansas,142,p53
+Brown,Kansas,142,p53
+Doniphan,Kansas,142,p53
+Jefferson,Kansas,142,p53
+Johnson,Kansas,142,p53
+Leavenworth,Kansas,142,p53
+Miami,Kansas,142,p53
+Wyandotte,Kansas,142,p53
+Allen,Kansas,143,p53
+Anderson,Kansas,143,p53
+Bourbon,Kansas,143,p53
+Cherokee,Kansas,143,p53
+Coffey,Kansas,143,p53
+Crawford,Kansas,143,p53
+Labette,Kansas,143,p53
+Linn,Kansas,143,p53
+Montgomery,Kansas,143,p53
+Neosho,Kansas,143,p53
+Wilson,Kansas,143,p53
+Woodson,Kansas,143,p53
+Andrew,Missouri,144,p54
+Atchison,Missouri,144,p54
+Buchanan,Missouri,144,p54
+Caldwell,Missouri,144,p54
+Carroll,Missouri,144,p54
+Chariton,Missouri,144,p54
+Clinton,Missouri,144,p54
+Daviess,Missouri,144,p54
+Dekalb,Missouri,144,p54
+Gentry,Missouri,144,p54
+Grundy,Missouri,144,p54
+Harrison,Missouri,144,p54
+Holt,Missouri,144,p54
+Johnson,Missouri,144,p54
+Lafayette,Missouri,144,p54
+Linn,Missouri,144,p54
+Livingston,Missouri,144,p54
+Mercer,Missouri,144,p54
+Nodaway,Missouri,144,p54
+Pettis,Missouri,144,p54
+Putnam,Missouri,144,p54
+Ray,Missouri,144,p54
+Saline,Missouri,144,p54
+Sullivan,Missouri,144,p54
+Worth,Missouri,144,p54
+Cass,Missouri,145,p54
+Clay,Missouri,145,p54
+Jackson,Missouri,145,p54
+Platte,Missouri,145,p54
+Bates,Missouri,146,p55
+Benton,Missouri,146,p55
+Cedar,Missouri,146,p55
+Henry,Missouri,146,p55
+Hickory,Missouri,146,p55
+St. Clair,Missouri,146,p55
+Saint Clair,Missouri,146,p55
+Vernon,Missouri,146,p55
+Barry,Missouri,147,p55
+Barton,Missouri,147,p55
+Christian,Missouri,147,p55
+Dade,Missouri,147,p55
+Douglas,Missouri,147,p55
+Greene,Missouri,147,p55
+Jasper,Missouri,147,p55
+Lawrence,Missouri,147,p55
+Mcdonald,Missouri,147,p55
+Newton,Missouri,147,p55
+Ozark,Missouri,147,p55
+Polk,Missouri,147,p55
+Stone,Missouri,147,p55
+Taney,Missouri,147,p55
+Webster,Missouri,147,p55
+Benton,Arkansas,159,p56
+Washington,Arkansas,159,p56
+Boone,Arkansas,160,p56
+Carroll,Arkansas,160,p56
+Cleburne,Arkansas,160,p56
+Crawford,Arkansas,160,p56
+Franklin,Arkansas,160,p56
+Howard,Arkansas,160,p56
+Johnson,Arkansas,160,p56
+Logan,Arkansas,160,p56
+Madison,Arkansas,160,p56
+Marion,Arkansas,160,p56
+Montgomery,Arkansas,160,p56
+Newton,Arkansas,160,p56
+Pike,Arkansas,160,p56
+Polk,Arkansas,160,p56
+Scott,Arkansas,160,p56
+Searcy,Arkansas,160,p56
+Sebastian,Arkansas,160,p56
+Van Buren,Arkansas,160,p56
+Bowie,Texas,151,p57
+Camp,Texas,151,p57
+Cass,Texas,151,p57
+Gregg,Texas,151,p57
+Harrison,Texas,151,p57
+Marion,Texas,151,p57
+Morris,Texas,151,p57
+Panola,Texas,151,p57
+Titus,Texas,151,p57
+Upshur,Texas,151,p57
+Bossier,Louisiana,161,p58
+Bossier Parish,Louisiana,161,p58
+Caddo,Louisiana,161,p58
+Caddo Parish,Louisiana,161,p58
+Acadia,Louisiana,162,p58
+Acadia Parish,Louisiana,162,p58
+Allen,Louisiana,162,p58
+Allen Parish,Louisiana,162,p58
+Avoyelles,Louisiana,162,p58
+Avoyelles Parish,Louisiana,162,p58
+Beauregard,Louisiana,162,p58
+Beauregard Parish,Louisiana,162,p58
+Bienville,Louisiana,162,p58
+Bienville Parish,Louisiana,162,p58
+Calcasieu,Louisiana,162,p58
+Calcasieu Parish,Louisiana,162,p58
+Caldwell,Louisiana,162,p58
+Caldwell Parish,Louisiana,162,p58
+Cameron,Louisiana,162,p58
+Cameron Parish,Louisiana,162,p58
+Catahoula,Louisiana,162,p58
+Catahoula Parish,Louisiana,162,p58
+Concordia,Louisiana,162,p58
+Concordia Parish,Louisiana,162,p58
+De Soto,Louisiana,162,p58
+De Soto Parish,Louisiana,162,p58
+Evangeline,Louisiana,162,p58
+Evangeline Parish,Louisiana,162,p58
+Grant,Louisiana,162,p58
+Grant Parish,Louisiana,162,p58
+Jackson,Louisiana,162,p58
+Jackson Parish,Louisiana,162,p58
+Jefferson Davis,Louisiana,162,p58
+Jefferson Davis Parish,Louisiana,162,p58
+La Salle,Louisiana,162,p58
+La Salle Parish,Louisiana,162,p58
+Lafayette,Louisiana,162,p58
+Lafayette Parish,Louisiana,162,p58
+Natchitoches,Louisiana,162,p58
+Natchitoches Parish,Louisiana,162,p58
+Rapides,Louisiana,162,p58
+Rapides Parish,Louisiana,162,p58
+Red River,Louisiana,162,p58
+Red River Parish,Louisiana,162,p58
+Sabine,Louisiana,162,p58
+Sabine Parish,Louisiana,162,p58
+St. Landry,Louisiana,162,p58
+St. Landry Parish,Louisiana,162,p58
+Saint Landry,Louisiana,162,p58
+Saint Landry Parish,Louisiana,162,p58
+Vermilion,Louisiana,162,p58
+Vermilion Parish,Louisiana,162,p58
+Vernon,Louisiana,162,p58
+Vernon Parish,Louisiana,162,p58
+Webster,Louisiana,162,p58
+Webster Parish,Louisiana,162,p58
+Winn,Louisiana,162,p58
+Winn Parish,Louisiana,162,p58
+Ascension,Louisiana,261,p58
+Ascension Parish,Louisiana,261,p58
+Assumption,Louisiana,261,p58
+Assumption Parish,Louisiana,261,p58
+East Baton Rouge,Louisiana,261,p58
+East Baton Rouge Parish,Louisiana,261,p58
+East Feliciana,Louisiana,261,p58
+East Feliciana Parish,Louisiana,261,p58
+Iberia,Louisiana,261,p58
+Iberia Parish,Louisiana,261,p58
+Iberville,Louisiana,261,p58
+Iberville Parish,Louisiana,261,p58
+Jefferson,Louisiana,261,p58
+Jefferson Parish,Louisiana,261,p58
+Lafourche,Louisiana,261,p58
+Lafourche Parish,Louisiana,261,p58
+Livingston,Louisiana,261,p58
+Livingston Parish,Louisiana,261,p58
+Orleans,Louisiana,261,p58
+Orleans Parish,Louisiana,261,p58
+Plaquemines,Louisiana,261,p58
+Plaquemines Parish,Louisiana,261,p58
+Pointe Coupee,Louisiana,261,p58
+Pointe Coupee Parish,Louisiana,261,p58
+St. Bernard,Louisiana,261,p58
+St. Bernard Parish,Louisiana,261,p58
+Saint Bernard,Louisiana,261,p58
+Saint Bernard Parish,Louisiana,261,p58
+St. Charles,Louisiana,261,p58
+St. Charles Parish,Louisiana,261,p58
+Saint Charles,Louisiana,261,p58
+Saint Charles Parish,Louisiana,261,p58
+St. Helena,Louisiana,261,p58
+St. Helena Parish,Louisiana,261,p58
+Saint Helena,Louisiana,261,p58
+Saint Helena Parish,Louisiana,261,p58
+St. James,Louisiana,261,p58
+St. James Parish,Louisiana,261,p58
+Saint James,Louisiana,261,p58
+Saint James Parish,Louisiana,261,p58
+St. John The Baptist,Louisiana,261,p58
+St. John The Baptist Parish,Louisiana,261,p58
+Saint John The Baptist,Louisiana,261,p58
+Saint John The Baptist Parish,Louisiana,261,p58
+St. Martin,Louisiana,261,p58
+St. Martin Parish,Louisiana,261,p58
+Saint Martin,Louisiana,261,p58
+Saint Martin Parish,Louisiana,261,p58
+St. Mary,Louisiana,261,p58
+St. Mary Parish,Louisiana,261,p58
+Saint Mary,Louisiana,261,p58
+Saint Mary Parish,Louisiana,261,p58
+St. Tammany,Louisiana,261,p58
+St. Tammany Parish,Louisiana,261,p58
+Saint Tammany,Louisiana,261,p58
+Saint Tammany Parish,Louisiana,261,p58
+Tangipahoa,Louisiana,261,p58
+Tangipahoa Parish,Louisiana,261,p58
+Terrebonne,Louisiana,261,p58
+Terrebonne Parish,Louisiana,261,p58
+Washington,Louisiana,261,p58
+Washington Parish,Louisiana,261,p58
+West Baton Rouge,Louisiana,261,p58
+West Baton Rouge Parish,Louisiana,261,p58
+West Feliciana,Louisiana,261,p58
+West Feliciana Parish,Louisiana,261,p58
+El Paso,Texas,94,p59
+Baylor,Texas,165,p60
+Borden,Texas,165,p60
+Briscoe,Texas,165,p60
+Childress,Texas,165,p60
+Cottle,Texas,165,p60
+Crosby,Texas,165,p60
+Dawson,Texas,165,p60
+Dickens,Texas,165,p60
+Fisher,Texas,165,p60
+Foard,Texas,165,p60
+Hall,Texas,165,p60
+Hardeman,Texas,165,p60
+Haskell,Texas,165,p60
+Howard,Texas,165,p60
+Jones,Texas,165,p60
+Kent,Texas,165,p60
+King,Texas,165,p60
+Knox,Texas,165,p60
+Mitchell,Texas,165,p60
+Motley,Texas,165,p60
+Nolan,Texas,165,p60
+Scurry,Texas,165,p60
+Stonewall,Texas,165,p60
+Wilbarger,Texas,165,p60
+Brewster,Texas,163,p61
+Culberson,Texas,163,p61
+Hudspeth,Texas,163,p61
+Jeff Davis,Texas,163,p61
+Pecos,Texas,163,p61
+Presidio,Texas,163,p61
+Reeves,Texas,163,p61
+Terrell,Texas,163,p61
+Callahan,Texas,166,p61
+Coke,Texas,166,p61
+Coleman,Texas,166,p61
+Concho,Texas,166,p61
+Crockett,Texas,166,p61
+Irion,Texas,166,p61
+Kinney,Texas,166,p61
+Runnels,Texas,166,p61
+Schleicher,Texas,166,p61
+Sterling,Texas,166,p61
+Sutton,Texas,166,p61
+Taylor,Texas,166,p61
+Tom Green,Texas,166,p61
+Val Verde,Texas,166,p61
+Andrews,Texas,164,p62
+Crane,Texas,164,p62
+Ector,Texas,164,p62
+Glasscock,Texas,164,p62
+Loving,Texas,164,p62
+Martin,Texas,164,p62
+Midland,Texas,164,p62
+Reagan,Texas,164,p62
+Upton,Texas,164,p62
+Ward,Texas,164,p62
+Winkler,Texas,164,p62
+Archer,Texas,167,p63
+Brown,Texas,167,p63
+Clay,Texas,167,p63
+Comanche,Texas,167,p63
+Eastland,Texas,167,p63
+Erath,Texas,167,p63
+Jack,Texas,167,p63
+Montague,Texas,167,p63
+Palo Pinto,Texas,167,p63
+Shackelford,Texas,167,p63
+Stephens,Texas,167,p63
+Throckmorton,Texas,167,p63
+Wichita,Texas,167,p63
+Young,Texas,167,p63
+Collin,Texas,168,p63
+Cooke,Texas,168,p63
+Dallas,Texas,168,p63
+Denton,Texas,168,p63
+Ellis,Texas,168,p63
+Fannin,Texas,168,p63
+Grayson,Texas,168,p63
+Hood,Texas,168,p63
+Hunt,Texas,168,p63
+Johnson,Texas,168,p63
+Kaufman,Texas,168,p63
+Parker,Texas,168,p63
+Rockwall,Texas,168,p63
+Somervell,Texas,168,p63
+Tarrant,Texas,168,p63
+Wise,Texas,168,p63
+Bell,Texas,169,p63
+Bosque,Texas,169,p63
+Coryell,Texas,169,p63
+Falls,Texas,169,p63
+Freestone,Texas,169,p63
+Hamilton,Texas,169,p63
+Hill,Texas,169,p63
+Lampasas,Texas,169,p63
+Leon,Texas,169,p63
+Limestone,Texas,169,p63
+Madison,Texas,169,p63
+Mcculloch,Texas,169,p63
+Mclennan,Texas,169,p63
+Milam,Texas,169,p63
+Mills,Texas,169,p63
+Navarro,Texas,169,p63
+Robertson,Texas,169,p63
+San Saba,Texas,169,p63
+Austin,Texas,171,p64
+Bandera,Texas,171,p64
+Bastrop,Texas,171,p64
+Blanco,Texas,171,p64
+Brazos,Texas,171,p64
+Burleson,Texas,171,p64
+Burnet,Texas,171,p64
+Caldwell,Texas,171,p64
+Colorado,Texas,171,p64
+Comal,Texas,171,p64
+Dewitt,Texas,171,p64
+Edwards,Texas,171,p64
+Fayette,Texas,171,p64
+Gillespie,Texas,171,p64
+Gonzales,Texas,171,p64
+Grimes,Texas,171,p64
+Guadalupe,Texas,171,p64
+Hays,Texas,171,p64
+Kendall,Texas,171,p64
+Kerr,Texas,171,p64
+Kimble,Texas,171,p64
+Lavaca,Texas,171,p64
+Lee,Texas,171,p64
+Llano,Texas,171,p64
+Mason,Texas,171,p64
+Menard,Texas,171,p64
+Real,Texas,171,p64
+Travis,Texas,171,p64
+Walker,Texas,171,p64
+Waller,Texas,171,p64
+Washington,Texas,171,p64
+Williamson,Texas,171,p64
+Atascosa,Texas,172,p65
+Bee,Texas,172,p65
+Brooks,Texas,172,p65
+Dimmit,Texas,172,p65
+Duval,Texas,172,p65
+Frio,Texas,172,p65
+Goliad,Texas,172,p65
+Hidalgo,Texas,172,p65
+Jim Hogg,Texas,172,p65
+Jim Wells,Texas,172,p65
+Karnes,Texas,172,p65
+La Salle,Texas,172,p65
+Live Oak,Texas,172,p65
+Maverick,Texas,172,p65
+Mcmullen,Texas,172,p65
+Medina,Texas,172,p65
+Starr,Texas,172,p65
+Uvalde,Texas,172,p65
+Webb,Texas,172,p65
+Wilson,Texas,172,p65
+Zapata,Texas,172,p65
+Zavala,Texas,172,p65
+Bexar,Texas,173,p65
+Aransas,Texas,174,p65
+Calhoun,Texas,174,p65
+Cameron,Texas,174,p65
+Jackson,Texas,174,p65
+Kenedy,Texas,174,p65
+Kleberg,Texas,174,p65
+Matagorda,Texas,174,p65
+Nueces,Texas,174,p65
+Refugio,Texas,174,p65
+San Patricio,Texas,174,p65
+Victoria,Texas,174,p65
+Wharton,Texas,174,p65
+Willacy,Texas,174,p65
+Anderson,Texas,170,p63
+Angelina,Texas,170,p63
+Cherokee,Texas,170,p63
+Delta,Texas,170,p63
+Franklin,Texas,170,p63
+Henderson,Texas,170,p63
+Hopkins,Texas,170,p63
+Houston,Texas,170,p63
+Lamar,Texas,170,p63
+Rains,Texas,170,p63
+Red River,Texas,170,p63
+Rusk,Texas,170,p63
+Smith,Texas,170,p63
+Van Zandt,Texas,170,p63
+Wood,Texas,170,p63
+Chambers,Texas,256,p66
+Hardin,Texas,256,p66
+Jasper,Texas,256,p66
+Jefferson,Texas,256,p66
+Liberty,Texas,256,p66
+Montgomery,Texas,256,p66
+Nacogdoches,Texas,256,p66
+Newton,Texas,256,p66
+Orange,Texas,256,p66
+Polk,Texas,256,p66
+Sabine,Texas,256,p66
+San Augustine,Texas,256,p66
+San Jacinto,Texas,256,p66
+Shelby,Texas,256,p66
+Trinity,Texas,256,p66
+Tyler,Texas,256,p66
+Brazoria,Texas,175,p67
+Fort Bend,Texas,175,p67
+Galveston,Texas,175,p67
+Harris,Texas,175,p67
+Blue Earth,Minnesota,176,p68
+Brown,Minnesota,176,p68
+Cottonwood,Minnesota,176,p68
+Faribault,Minnesota,176,p68
+Fillmore,Minnesota,176,p68
+Freeborn,Minnesota,176,p68
+Houston,Minnesota,176,p68
+Jackson,Minnesota,176,p68
+Martin,Minnesota,176,p68
+Mower,Minnesota,176,p68
+Nicollet,Minnesota,176,p68
+Waseca,Minnesota,176,p68
+Watonwan,Minnesota,176,p68
+Black Hawk,Iowa,133,p69
+Bremer,Iowa,133,p69
+Buchanan,Iowa,133,p69
+Butler,Iowa,133,p69
+Floyd,Iowa,133,p69
+Grundy,Iowa,133,p69
+Allamakee,Iowa,177,p69
+Chickasaw,Iowa,177,p69
+Clayton,Iowa,177,p69
+Fayette,Iowa,177,p69
+Howard,Iowa,177,p69
+Mitchell,Iowa,177,p69
+Winneshiek,Iowa,177,p69
+Benton,Iowa,178,p70
+Hamilton,Iowa,178,p70
+Hardin,Iowa,178,p70
+Iowa,Iowa,178,p70
+Jasper,Iowa,178,p70
+Keokuk,Iowa,178,p70
+Marshall,Iowa,178,p70
+Poweshiek,Iowa,178,p70
+Story,Iowa,178,p70
+Tama,Iowa,178,p70
+Dallas,Iowa,179,p70
+Madison,Iowa,179,p70
+Mahaska,Iowa,179,p70
+Marion,Iowa,179,p70
+Polk,Iowa,179,p70
+Warren,Iowa,179,p70
+Adair,Iowa,180,p70
+Adams,Iowa,180,p70
+Boone,Iowa,180,p70
+Cass,Iowa,180,p70
+Clarke,Iowa,180,p70
+Decatur,Iowa,180,p70
+Greene,Iowa,180,p70
+Guthrie,Iowa,180,p70
+Lucas,Iowa,180,p70
+Ringgold,Iowa,180,p70
+Union,Iowa,180,p70
+Wayne,Iowa,180,p70
+Appanoose,Iowa,181,p70
+Davis,Iowa,181,p70
+Henry,Iowa,181,p70
+Jefferson,Iowa,181,p70
+Monroe,Iowa,181,p70
+Van Buren,Iowa,181,p70
+Wapello,Iowa,181,p70
+Delaware,Iowa,182,p70
+Johnson,Iowa,182,p70
+Linn,Iowa,182,p70
+Washington,Iowa,182,p70
+Cedar,Iowa,183,p70
+Clinton,Iowa,183,p70
+Des Moines,Iowa,183,p70
+Dubuque,Iowa,183,p70
+Jackson,Iowa,183,p70
+Jones,Iowa,183,p70
+Lee,Iowa,183,p70
+Louisa,Iowa,183,p70
+Muscatine,Iowa,183,p70
+Scott,Iowa,183,p70
+Adair,Missouri,184,p71
+Clark,Missouri,184,p71
+Knox,Missouri,184,p71
+Lewis,Missouri,184,p71
+Macon,Missouri,184,p71
+Marion,Missouri,184,p71
+Monroe,Missouri,184,p71
+Ralls,Missouri,184,p71
+Schuyler,Missouri,184,p71
+Scotland,Missouri,184,p71
+Shelby,Missouri,184,p71
+Audrain,Missouri,185,p72
+Boone,Missouri,185,p72
+Callaway,Missouri,185,p72
+Cole,Missouri,185,p72
+Cooper,Missouri,185,p72
+Franklin,Missouri,185,p72
+Gasconade,Missouri,185,p72
+Howard,Missouri,185,p72
+Lincoln,Missouri,185,p72
+Maries,Missouri,185,p72
+Miller,Missouri,185,p72
+Moniteau,Missouri,185,p72
+Montgomery,Missouri,185,p72
+Morgan,Missouri,185,p72
+Osage,Missouri,185,p72
+Pike,Missouri,185,p72
+Randolph,Missouri,185,p72
+Warren,Missouri,185,p72
+St. Charles,Missouri,189,p72
+Saint Charles,Missouri,189,p72
+St. Louis,Missouri,189,p72
+Saint Louis,Missouri,189,p72
+St. Louis City,Missouri,189,p72
+Saint Louis City,Missouri,189,p72
+Cape Girardeau,Missouri,190,p72
+Jefferson,Missouri,190,p72
+Mississippi,Missouri,190,p72
+Perry,Missouri,190,p72
+Scott,Missouri,190,p72
+St. Francois,Missouri,190,p72
+Saint Francois,Missouri,190,p72
+Ste. Genevieve,Missouri,190,p72
+Sainte Genevieve,Missouri,190,p72
+Bollinger,Missouri,186,p73
+Crawford,Missouri,186,p73
+Iron,Missouri,186,p73
+Madison,Missouri,186,p73
+Phelps,Missouri,186,p73
+Pulaski,Missouri,186,p73
+Reynolds,Missouri,186,p73
+Washington,Missouri,186,p73
+Alger,Michigan,191,p74
+Baraga,Michigan,191,p74
+Delta,Michigan,191,p74
+Dickinson,Michigan,191,p74
+Gogebic,Michigan,191,p74
+Houghton,Michigan,191,p74
+Iron,Michigan,191,p74
+Keweenaw,Michigan,191,p74
+Marquette,Michigan,191,p74
+Menominee,Michigan,191,p74
+Ontonagon,Michigan,191,p74
+Florence,Wisconsin,192,p75
+Forest,Wisconsin,192,p75
+Langlade,Wisconsin,192,p75
+Lincoln,Wisconsin,192,p75
+Marathon,Wisconsin,192,p75
+Marinette,Wisconsin,192,p75
+Oconto,Wisconsin,192,p75
+Oneida,Wisconsin,192,p75
+Portage,Wisconsin,192,p75
+Vilas,Wisconsin,192,p75
+Brown,Wisconsin,197,p75
+Door,Wisconsin,197,p75
+Kewaunee,Wisconsin,197,p75
+Manitowoc,Wisconsin,197,p75
+Adams,Wisconsin,193,p76
+Columbia,Wisconsin,193,p76
+Dodge,Wisconsin,193,p76
+Fond Du Lac,Wisconsin,193,p76
+Green Lake,Wisconsin,193,p76
+Juneau,Wisconsin,193,p76
+Marquette,Wisconsin,193,p76
+Menominee,Wisconsin,193,p76
+Shawano,Wisconsin,193,p76
+Waupaca,Wisconsin,193,p76
+Waushara,Wisconsin,193,p76
+Wood,Wisconsin,193,p76
+Calumet,Wisconsin,196,p76
+Outagamie,Wisconsin,196,p76
+Winnebago,Wisconsin,196,p76
+Crawford,Wisconsin,194,p77
+Grant,Wisconsin,194,p77
+Iowa,Wisconsin,194,p77
+Jackson,Wisconsin,194,p77
+Lafayette,Wisconsin,194,p77
+Monroe,Wisconsin,194,p77
+Richland,Wisconsin,194,p77
+Sauk,Wisconsin,194,p77
+Vernon,Wisconsin,194,p77
+Dane,Wisconsin,195,p78
+Green,Wisconsin,195,p78
+Rock,Wisconsin,195,p78
+Jefferson,Wisconsin,198,p79
+Kenosha,Wisconsin,198,p79
+Milwaukee,Wisconsin,198,p79
+Ozaukee,Wisconsin,198,p79
+Racine,Wisconsin,198,p79
+Sheboygan,Wisconsin,198,p79
+Walworth,Wisconsin,198,p79
+Washington,Wisconsin,198,p79
+Waukesha,Wisconsin,198,p79
+Boone,Illinois,199,p80
+Carroll,Illinois,199,p80
+Dekalb,Illinois,199,p80
+Jo Daviess,Illinois,199,p80
+Lee,Illinois,199,p80
+Ogle,Illinois,199,p80
+Stephenson,Illinois,199,p80
+Whiteside,Illinois,199,p80
+Winnebago,Illinois,199,p80
+Cook,Illinois,206,p80
+Dupage,Illinois,206,p80
+Kane,Illinois,206,p80
+Lake,Illinois,206,p80
+Mchenry,Illinois,206,p80
+Will,Illinois,206,p80
+Grundy,Illinois,207,p80
+Kankakee,Illinois,207,p80
+Kendall,Illinois,207,p80
+La Salle,Illinois,207,p80
+Livingston,Illinois,207,p80
+Bureau,Illinois,200,p81
+Henderson,Illinois,200,p81
+Henry,Illinois,200,p81
+Knox,Illinois,200,p81
+Mercer,Illinois,200,p81
+Putnam,Illinois,200,p81
+Rock Island,Illinois,200,p81
+Stark,Illinois,200,p81
+Warren,Illinois,200,p81
+Adams,Illinois,201,p81
+Pike,Illinois,201,p81
+Brown,Illinois,202,p81
+Calhoun,Illinois,202,p81
+Cass,Illinois,202,p81
+Fulton,Illinois,202,p81
+Greene,Illinois,202,p81
+Hancock,Illinois,202,p81
+Jersey,Illinois,202,p81
+Macoupin,Illinois,202,p81
+Mason,Illinois,202,p81
+Mcdonough,Illinois,202,p81
+Menard,Illinois,202,p81
+Morgan,Illinois,202,p81
+Schuyler,Illinois,202,p81
+Scott,Illinois,202,p81
+Madison,Illinois,204,p81
+Monroe,Illinois,204,p81
+St. Clair,Illinois,204,p81
+Saint Clair,Illinois,204,p81
+Alexander,Illinois,205,p81
+Bond,Illinois,205,p81
+Clinton,Illinois,205,p81
+Fayette,Illinois,205,p81
+Franklin,Illinois,205,p81
+Gallatin,Illinois,205,p81
+Hamilton,Illinois,205,p81
+Hardin,Illinois,205,p81
+Jackson,Illinois,205,p81
+Jefferson,Illinois,205,p81
+Johnson,Illinois,205,p81
+Marion,Illinois,205,p81
+Massac,Illinois,205,p81
+Montgomery,Illinois,205,p81
+Perry,Illinois,205,p81
+Pope,Illinois,205,p81
+Pulaski,Illinois,205,p81
+Randolph,Illinois,205,p81
+Saline,Illinois,205,p81
+Union,Illinois,205,p81
+Washington,Illinois,205,p81
+Wayne,Illinois,205,p81
+White,Illinois,205,p81
+Williamson,Illinois,205,p81
+Logan,Illinois,203,p82
+Marshall,Illinois,203,p82
+Peoria,Illinois,203,p82
+Sangamon,Illinois,203,p82
+Tazewell,Illinois,203,p82
+Woodford,Illinois,203,p82
+De Witt,Illinois,208,p83
+Macon,Illinois,208,p83
+Mclean,Illinois,208,p83
+Piatt,Illinois,208,p83
+Champaign,Illinois,209,p83
+Edgar,Illinois,209,p83
+Ford,Illinois,209,p83
+Iroquois,Illinois,209,p83
+Vermilion,Illinois,209,p83
+Christian,Illinois,210,p83
+Clark,Illinois,210,p83
+Clay,Illinois,210,p83
+Coles,Illinois,210,p83
+Crawford,Illinois,210,p83
+Cumberland,Illinois,210,p83
+Douglas,Illinois,210,p83
+Edwards,Illinois,210,p83
+Effingham,Illinois,210,p83
+Jasper,Illinois,210,p83
+Lawrence,Illinois,210,p83
+Moultrie,Illinois,210,p83
+Richland,Illinois,210,p83
+Shelby,Illinois,210,p83
+Wabash,Illinois,210,p83
+Camden,Missouri,187,p84
+Carter,Missouri,187,p84
+Dallas,Missouri,187,p84
+Dent,Missouri,187,p84
+Howell,Missouri,187,p84
+Laclede,Missouri,187,p84
+Oregon,Missouri,187,p84
+Ripley,Missouri,187,p84
+Shannon,Missouri,187,p84
+Texas,Missouri,187,p84
+Wayne,Missouri,187,p84
+Wright,Missouri,187,p84
+Butler,Missouri,188,p84
+Dunklin,Missouri,188,p84
+New Madrid,Missouri,188,p84
+Pemiscot,Missouri,188,p84
+Stoddard,Missouri,188,p84
+Conway,Arkansas,257,p85
+Garland,Arkansas,257,p85
+Hot Spring,Arkansas,257,p85
+Perry,Arkansas,257,p85
+Pope,Arkansas,257,p85
+Saline,Arkansas,257,p85
+Yell,Arkansas,257,p85
+Faulkner,Arkansas,258,p85
+Pulaski,Arkansas,258,p85
+Arkansas,Arkansas,259,p85
+Ashley,Arkansas,259,p85
+Baxter,Arkansas,259,p85
+Bradley,Arkansas,259,p85
+Calhoun,Arkansas,259,p85
+Chicot,Arkansas,259,p85
+Clark,Arkansas,259,p85
+Clay,Arkansas,259,p85
+Cleveland,Arkansas,259,p85
+Columbia,Arkansas,259,p85
+Craighead,Arkansas,259,p85
+Crittenden,Arkansas,259,p85
+Cross,Arkansas,259,p85
+Dallas,Arkansas,259,p85
+Desha,Arkansas,259,p85
+Drew,Arkansas,259,p85
+Fulton,Arkansas,259,p85
+Grant,Arkansas,259,p85
+Greene,Arkansas,259,p85
+Hempstead,Arkansas,259,p85
+Independence,Arkansas,259,p85
+Izard,Arkansas,259,p85
+Jackson,Arkansas,259,p85
+Jefferson,Arkansas,259,p85
+Lafayette,Arkansas,259,p85
+Lawrence,Arkansas,259,p85
+Lee,Arkansas,259,p85
+Lincoln,Arkansas,259,p85
+Little River,Arkansas,259,p85
+Lonoke,Arkansas,259,p85
+Miller,Arkansas,259,p85
+Mississippi,Arkansas,259,p85
+Monroe,Arkansas,259,p85
+Nevada,Arkansas,259,p85
+Ouachita,Arkansas,259,p85
+Phillips,Arkansas,259,p85
+Poinsett,Arkansas,259,p85
+Prairie,Arkansas,259,p85
+Randolph,Arkansas,259,p85
+Sevier,Arkansas,259,p85
+Sharp,Arkansas,259,p85
+St. Francis,Arkansas,259,p85
+Saint Francis,Arkansas,259,p85
+Stone,Arkansas,259,p85
+Union,Arkansas,259,p85
+White,Arkansas,259,p85
+Woodruff,Arkansas,259,p85
+Claiborne,Louisiana,260,p86
+Claiborne Parish,Louisiana,260,p86
+East Carroll,Louisiana,260,p86
+East Carroll Parish,Louisiana,260,p86
+Franklin,Louisiana,260,p86
+Franklin Parish,Louisiana,260,p86
+Lincoln,Louisiana,260,p86
+Lincoln Parish,Louisiana,260,p86
+Madison,Louisiana,260,p86
+Madison Parish,Louisiana,260,p86
+Morehouse,Louisiana,260,p86
+Morehouse Parish,Louisiana,260,p86
+Ouachita,Louisiana,260,p86
+Ouachita Parish,Louisiana,260,p86
+Richland,Louisiana,260,p86
+Richland Parish,Louisiana,260,p86
+Tensas,Louisiana,260,p86
+Tensas Parish,Louisiana,260,p86
+Union,Louisiana,260,p86
+Union Parish,Louisiana,260,p86
+West Carroll,Louisiana,260,p86
+West Carroll Parish,Louisiana,260,p86
+Adams,Mississippi,262,p87
+Amite,Mississippi,262,p87
+Attala,Mississippi,262,p87
+Bolivar,Mississippi,262,p87
+Carroll,Mississippi,262,p87
+Claiborne,Mississippi,262,p87
+Coahoma,Mississippi,262,p87
+Copiah,Mississippi,262,p87
+Desoto,Mississippi,262,p87
+Franklin,Mississippi,262,p87
+Grenada,Mississippi,262,p87
+Hinds,Mississippi,262,p87
+Holmes,Mississippi,262,p87
+Humphreys,Mississippi,262,p87
+Issaquena,Mississippi,262,p87
+Jefferson,Mississippi,262,p87
+Lawrence,Mississippi,262,p87
+Leake,Mississippi,262,p87
+Leflore,Mississippi,262,p87
+Lincoln,Mississippi,262,p87
+Madison,Mississippi,262,p87
+Montgomery,Mississippi,262,p87
+Panola,Mississippi,262,p87
+Pike,Mississippi,262,p87
+Quitman,Mississippi,262,p87
+Rankin,Mississippi,262,p87
+Scott,Mississippi,262,p87
+Sharkey,Mississippi,262,p87
+Simpson,Mississippi,262,p87
+Smith,Mississippi,262,p87
+Sunflower,Mississippi,262,p87
+Tallahatchie,Mississippi,262,p87
+Tate,Mississippi,262,p87
+Tunica,Mississippi,262,p87
+Walthall,Mississippi,262,p87
+Warren,Mississippi,262,p87
+Washington,Mississippi,262,p87
+Wilkinson,Mississippi,262,p87
+Yazoo,Mississippi,262,p87
+Clarke,Mississippi,264,p87
+Covington,Mississippi,264,p87
+Forrest,Mississippi,264,p87
+George,Mississippi,264,p87
+Greene,Mississippi,264,p87
+Hancock,Mississippi,264,p87
+Harrison,Mississippi,264,p87
+Jackson,Mississippi,264,p87
+Jasper,Mississippi,264,p87
+Jefferson Davis,Mississippi,264,p87
+Jones,Mississippi,264,p87
+Lamar,Mississippi,264,p87
+Lauderdale,Mississippi,264,p87
+Marion,Mississippi,264,p87
+Newton,Mississippi,264,p87
+Pearl River,Mississippi,264,p87
+Perry,Mississippi,264,p87
+Stone,Mississippi,264,p87
+Wayne,Mississippi,264,p87
+Alcorn,Mississippi,263,p88
+Benton,Mississippi,263,p88
+Calhoun,Mississippi,263,p88
+Chickasaw,Mississippi,263,p88
+Choctaw,Mississippi,263,p88
+Clay,Mississippi,263,p88
+Itawamba,Mississippi,263,p88
+Kemper,Mississippi,263,p88
+Lafayette,Mississippi,263,p88
+Lee,Mississippi,263,p88
+Lowndes,Mississippi,263,p88
+Marshall,Mississippi,263,p88
+Monroe,Mississippi,263,p88
+Neshoba,Mississippi,263,p88
+Noxubee,Mississippi,263,p88
+Oktibbeha,Mississippi,263,p88
+Pontotoc,Mississippi,263,p88
+Prentiss,Mississippi,263,p88
+Tippah,Mississippi,263,p88
+Tishomingo,Mississippi,263,p88
+Union,Mississippi,263,p88
+Webster,Mississippi,263,p88
+Winston,Mississippi,263,p88
+Yalobusha,Mississippi,263,p88
+Bibb,Alabama,265,p89
+Choctaw,Alabama,265,p89
+Colbert,Alabama,265,p89
+Cullman,Alabama,265,p89
+Dekalb,Alabama,265,p89
+Fayette,Alabama,265,p89
+Franklin,Alabama,265,p89
+Greene,Alabama,265,p89
+Hale,Alabama,265,p89
+Jackson,Alabama,265,p89
+Lamar,Alabama,265,p89
+Lauderdale,Alabama,265,p89
+Lawrence,Alabama,265,p89
+Limestone,Alabama,265,p89
+Madison,Alabama,265,p89
+Marengo,Alabama,265,p89
+Marion,Alabama,265,p89
+Marshall,Alabama,265,p89
+Morgan,Alabama,265,p89
+Perry,Alabama,265,p89
+Pickens,Alabama,265,p89
+Sumter,Alabama,265,p89
+Tuscaloosa,Alabama,265,p89
+Walker,Alabama,265,p89
+Wilcox,Alabama,265,p89
+Winston,Alabama,265,p89
+Jefferson,Alabama,266,p89
+Shelby,Alabama,266,p89
+Autauga,Alabama,267,p90
+Baldwin,Alabama,267,p90
+Barbour,Alabama,267,p90
+Blount,Alabama,267,p90
+Bullock,Alabama,267,p90
+Butler,Alabama,267,p90
+Calhoun,Alabama,267,p90
+Chambers,Alabama,267,p90
+Cherokee,Alabama,267,p90
+Chilton,Alabama,267,p90
+Clarke,Alabama,267,p90
+Clay,Alabama,267,p90
+Cleburne,Alabama,267,p90
+Coffee,Alabama,267,p90
+Conecuh,Alabama,267,p90
+Coosa,Alabama,267,p90
+Covington,Alabama,267,p90
+Crenshaw,Alabama,267,p90
+Dale,Alabama,267,p90
+Dallas,Alabama,267,p90
+Elmore,Alabama,267,p90
+Escambia,Alabama,267,p90
+Etowah,Alabama,267,p90
+Geneva,Alabama,267,p90
+Henry,Alabama,267,p90
+Houston,Alabama,267,p90
+Lee,Alabama,267,p90
+Lowndes,Alabama,267,p90
+Macon,Alabama,267,p90
+Monroe,Alabama,267,p90
+Montgomery,Alabama,267,p90
+Pike,Alabama,267,p90
+Randolph,Alabama,267,p90
+Russell,Alabama,267,p90
+St. Clair,Alabama,267,p90
+Saint Clair,Alabama,267,p90
+Talladega,Alabama,267,p90
+Tallapoosa,Alabama,267,p90
+Washington,Alabama,267,p90
+Mobile,Alabama,268,p90
+Escambia,Florida,269,p91
+Santa Rosa,Florida,269,p91
+Calhoun,Florida,270,p91
+Gulf,Florida,270,p91
+Holmes,Florida,270,p91
+Jackson,Florida,270,p91
+Okaloosa,Florida,270,p91
+Walton,Florida,270,p91
+Washington,Florida,270,p91
+Bay,Florida,271,p91
+Fayette,Tennessee,276,p92
+Shelby,Tennessee,276,p92
+Tipton,Tennessee,276,p92
+Benton,Tennessee,277,p92
+Carroll,Tennessee,277,p92
+Chester,Tennessee,277,p92
+Crockett,Tennessee,277,p92
+Decatur,Tennessee,277,p92
+Dyer,Tennessee,277,p92
+Gibson,Tennessee,277,p92
+Giles,Tennessee,277,p92
+Hardeman,Tennessee,277,p92
+Hardin,Tennessee,277,p92
+Haywood,Tennessee,277,p92
+Henderson,Tennessee,277,p92
+Henry,Tennessee,277,p92
+Hickman,Tennessee,277,p92
+Houston,Tennessee,277,p92
+Humphreys,Tennessee,277,p92
+Lake,Tennessee,277,p92
+Lauderdale,Tennessee,277,p92
+Lawrence,Tennessee,277,p92
+Lewis,Tennessee,277,p92
+Madison,Tennessee,277,p92
+Maury,Tennessee,277,p92
+Mcnairy,Tennessee,277,p92
+Obion,Tennessee,277,p92
+Perry,Tennessee,277,p92
+Stewart,Tennessee,277,p92
+Wayne,Tennessee,277,p92
+Weakley,Tennessee,277,p92
+Cheatham,Tennessee,278,p92
+Davidson,Tennessee,278,p92
+Dickson,Tennessee,278,p92
+Montgomery,Tennessee,278,p92
+Robertson,Tennessee,278,p92
+Rutherford,Tennessee,278,p92
+Sumner,Tennessee,278,p92
+Williamson,Tennessee,278,p92
+Wilson,Tennessee,278,p92
+Bedford,Tennessee,279,p92
+Bledsoe,Tennessee,279,p92
+Cannon,Tennessee,279,p92
+Clay,Tennessee,279,p92
+Coffee,Tennessee,279,p92
+Cumberland,Tennessee,279,p92
+Dekalb,Tennessee,279,p92
+Franklin,Tennessee,279,p92
+Grundy,Tennessee,279,p92
+Jackson,Tennessee,279,p92
+Lincoln,Tennessee,279,p92
+Macon,Tennessee,279,p92
+Marshall,Tennessee,279,p92
+Meigs,Tennessee,279,p92
+Moore,Tennessee,279,p92
+Overton,Tennessee,279,p92
+Putnam,Tennessee,279,p92
+Rhea,Tennessee,279,p92
+Smith,Tennessee,279,p92
+Trousdale,Tennessee,279,p92
+Van Buren,Tennessee,279,p92
+Warren,Tennessee,279,p92
+White,Tennessee,279,p92
+Bradley,Tennessee,280,p92
+Hamilton,Tennessee,280,p92
+Marion,Tennessee,280,p92
+Sequatchie,Tennessee,280,p92
+Anderson,Tennessee,281,p92
+Campbell,Tennessee,281,p92
+Claiborne,Tennessee,281,p92
+Fentress,Tennessee,281,p92
+Hancock,Tennessee,281,p92
+Morgan,Tennessee,281,p92
+Pickett,Tennessee,281,p92
+Scott,Tennessee,281,p92
+Union,Tennessee,281,p92
+Blount,Tennessee,282,p92
+Knox,Tennessee,282,p92
+Loudon,Tennessee,282,p92
+Roane,Tennessee,282,p92
+Mcminn,Tennessee,283,p92
+Monroe,Tennessee,283,p92
+Polk,Tennessee,283,p92
+Cocke,Tennessee,284,p92
+Grainger,Tennessee,284,p92
+Hamblen,Tennessee,284,p92
+Jefferson,Tennessee,284,p92
+Sevier,Tennessee,284,p92
+Carter,Tennessee,285,p92
+Greene,Tennessee,285,p92
+Hawkins,Tennessee,285,p92
+Johnson,Tennessee,285,p92
+Sullivan,Tennessee,285,p92
+Unicoi,Tennessee,285,p92
+Washington,Tennessee,285,p92
+Allen,Kentucky,286,p93
+Ballard,Kentucky,286,p93
+Butler,Kentucky,286,p93
+Calloway,Kentucky,286,p93
+Carlisle,Kentucky,286,p93
+Christian,Kentucky,286,p93
+Fulton,Kentucky,286,p93
+Graves,Kentucky,286,p93
+Hickman,Kentucky,286,p93
+Livingston,Kentucky,286,p93
+Logan,Kentucky,286,p93
+Lyon,Kentucky,286,p93
+Marshall,Kentucky,286,p93
+Mccracken,Kentucky,286,p93
+Simpson,Kentucky,286,p93
+Todd,Kentucky,286,p93
+Trigg,Kentucky,286,p93
+Warren,Kentucky,286,p93
+Clinton,Kentucky,287,p93
+Cumberland,Kentucky,287,p93
+Mccreary,Kentucky,287,p93
+Metcalfe,Kentucky,287,p93
+Monroe,Kentucky,287,p93
+Pulaski,Kentucky,287,p93
+Russell,Kentucky,287,p93
+Wayne,Kentucky,287,p93
+Catoosa,Georgia,272,p94
+Chattooga,Georgia,272,p94
+Dade,Georgia,272,p94
+Dawson,Georgia,272,p94
+Fannin,Georgia,272,p94
+Gilmer,Georgia,272,p94
+Gordon,Georgia,272,p94
+Habersham,Georgia,272,p94
+Lumpkin,Georgia,272,p94
+Murray,Georgia,272,p94
+Pickens,Georgia,272,p94
+Rabun,Georgia,272,p94
+Stephens,Georgia,272,p94
+Towns,Georgia,272,p94
+Union,Georgia,272,p94
+Walker,Georgia,272,p94
+White,Georgia,272,p94
+Whitfield,Georgia,272,p94
+Carroll,Georgia,273,p94
+Coweta,Georgia,273,p94
+Floyd,Georgia,273,p94
+Haralson,Georgia,273,p94
+Harris,Georgia,273,p94
+Heard,Georgia,273,p94
+Meriwether,Georgia,273,p94
+Polk,Georgia,273,p94
+Talbot,Georgia,273,p94
+Troup,Georgia,273,p94
+Bartow,Georgia,274,p94
+Cherokee,Georgia,274,p94
+Clayton,Georgia,274,p94
+Cobb,Georgia,274,p94
+Dekalb,Georgia,274,p94
+Douglas,Georgia,274,p94
+Fayette,Georgia,274,p94
+Forsyth,Georgia,274,p94
+Fulton,Georgia,274,p94
+Gwinnett,Georgia,274,p94
+Henry,Georgia,274,p94
+Paulding,Georgia,274,p94
+Rockdale,Georgia,274,p94
+Appling,Georgia,275,p94
+Atkinson,Georgia,275,p94
+Bacon,Georgia,275,p94
+Baker,Georgia,275,p94
+Baldwin,Georgia,275,p94
+Banks,Georgia,275,p94
+Barrow,Georgia,275,p94
+Ben Hill,Georgia,275,p94
+Berrien,Georgia,275,p94
+Bibb,Georgia,275,p94
+Bleckley,Georgia,275,p94
+Brantley,Georgia,275,p94
+Brooks,Georgia,275,p94
+Bryan,Georgia,275,p94
+Bulloch,Georgia,275,p94
+Burke,Georgia,275,p94
+Butts,Georgia,275,p94
+Calhoun,Georgia,275,p94
+Camden,Georgia,275,p94
+Candler,Georgia,275,p94
+Charlton,Georgia,275,p94
+Chatham,Georgia,275,p94
+Chattahoochee,Georgia,275,p94
+Clarke,Georgia,275,p94
+Clay,Georgia,275,p94
+Clinch,Georgia,275,p94
+Coffee,Georgia,275,p94
+Colquitt,Georgia,275,p94
+Columbia,Georgia,275,p94
+Cook,Georgia,275,p94
+Crawford,Georgia,275,p94
+Crisp,Georgia,275,p94
+Decatur,Georgia,275,p94
+Dodge,Georgia,275,p94
+Dooly,Georgia,275,p94
+Dougherty,Georgia,275,p94
+Early,Georgia,275,p94
+Echols,Georgia,275,p94
+Effingham,Georgia,275,p94
+Elbert,Georgia,275,p94
+Emanuel,Georgia,275,p94
+Evans,Georgia,275,p94
+Franklin,Georgia,275,p94
+Glascock,Georgia,275,p94
+Glynn,Georgia,275,p94
+Grady,Georgia,275,p94
+Greene,Georgia,275,p94
+Hall,Georgia,275,p94
+Hancock,Georgia,275,p94
+Hart,Georgia,275,p94
+Houston,Georgia,275,p94
+Irwin,Georgia,275,p94
+Jackson,Georgia,275,p94
+Jasper,Georgia,275,p94
+Jeff Davis,Georgia,275,p94
+Jefferson,Georgia,275,p94
+Jenkins,Georgia,275,p94
+Johnson,Georgia,275,p94
+Jones,Georgia,275,p94
+Lamar,Georgia,275,p94
+Lanier,Georgia,275,p94
+Laurens,Georgia,275,p94
+Lee,Georgia,275,p94
+Liberty,Georgia,275,p94
+Lincoln,Georgia,275,p94
+Long,Georgia,275,p94
+Lowndes,Georgia,275,p94
+Macon,Georgia,275,p94
+Madison,Georgia,275,p94
+Marion,Georgia,275,p94
+Mcduffie,Georgia,275,p94
+Mcintosh,Georgia,275,p94
+Miller,Georgia,275,p94
+Mitchell,Georgia,275,p94
+Monroe,Georgia,275,p94
+Montgomery,Georgia,275,p94
+Morgan,Georgia,275,p94
+Muscogee,Georgia,275,p94
+Newton,Georgia,275,p94
+Oconee,Georgia,275,p94
+Oglethorpe,Georgia,275,p94
+Peach,Georgia,275,p94
+Pierce,Georgia,275,p94
+Pike,Georgia,275,p94
+Pulaski,Georgia,275,p94
+Putnam,Georgia,275,p94
+Quitman,Georgia,275,p94
+Randolph,Georgia,275,p94
+Richmond,Georgia,275,p94
+Schley,Georgia,275,p94
+Screven,Georgia,275,p94
+Seminole,Georgia,275,p94
+Spalding,Georgia,275,p94
+Stewart,Georgia,275,p94
+Sumter,Georgia,275,p94
+Taliaferro,Georgia,275,p94
+Tattnall,Georgia,275,p94
+Taylor,Georgia,275,p94
+Telfair,Georgia,275,p94
+Terrell,Georgia,275,p94
+Thomas,Georgia,275,p94
+Tift,Georgia,275,p94
+Toombs,Georgia,275,p94
+Treutlen,Georgia,275,p94
+Turner,Georgia,275,p94
+Twiggs,Georgia,275,p94
+Upson,Georgia,275,p94
+Walton,Georgia,275,p94
+Ware,Georgia,275,p94
+Warren,Georgia,275,p94
+Washington,Georgia,275,p94
+Wayne,Georgia,275,p94
+Webster,Georgia,275,p94
+Wheeler,Georgia,275,p94
+Wilcox,Georgia,275,p94
+Wilkes,Georgia,275,p94
+Wilkinson,Georgia,275,p94
+Worth,Georgia,275,p94
+Abbeville,South Carolina,295,p95
+Anderson,South Carolina,295,p95
+Cherokee,South Carolina,295,p95
+Chester,South Carolina,295,p95
+Greenville,South Carolina,295,p95
+Greenwood,South Carolina,295,p95
+Lancaster,South Carolina,295,p95
+Laurens,South Carolina,295,p95
+Oconee,South Carolina,295,p95
+Pickens,South Carolina,295,p95
+Spartanburg,South Carolina,295,p95
+Union,South Carolina,295,p95
+York,South Carolina,295,p95
+Calhoun,South Carolina,296,p96
+Fairfield,South Carolina,296,p96
+Kershaw,South Carolina,296,p96
+Lexington,South Carolina,296,p96
+Newberry,South Carolina,296,p96
+Richland,South Carolina,296,p96
+Aiken,South Carolina,297,p96
+Allendale,South Carolina,297,p96
+Bamberg,South Carolina,297,p96
+Barnwell,South Carolina,297,p96
+Beaufort,South Carolina,297,p96
+Colleton,South Carolina,297,p96
+Edgefield,South Carolina,297,p96
+Hampton,South Carolina,297,p96
+Hampton City,South Carolina,297,p96
+Jasper,South Carolina,297,p96
+Mccormick,South Carolina,297,p96
+Orangeburg,South Carolina,297,p96
+Saluda,South Carolina,297,p96
+Chesterfield,South Carolina,298,p96
+Clarendon,South Carolina,298,p96
+Darlington,South Carolina,298,p96
+Dillon,South Carolina,298,p96
+Florence,South Carolina,298,p96
+Georgetown,South Carolina,298,p96
+Horry,South Carolina,298,p96
+Lee,South Carolina,298,p96
+Marion,South Carolina,298,p96
+Marlboro,South Carolina,298,p96
+Sumter,South Carolina,298,p96
+Williamsburg,South Carolina,298,p96
+Berkeley,South Carolina,299,p96
+Charleston,South Carolina,299,p96
+Dorchester,South Carolina,299,p96
+Alleghany,North Carolina,288,p97
+Ashe,North Carolina,288,p97
+Avery,North Carolina,288,p97
+Buncombe,North Carolina,288,p97
+Burke,North Carolina,288,p97
+Caldwell,North Carolina,288,p97
+Cherokee,North Carolina,288,p97
+Clay,North Carolina,288,p97
+Cleveland,North Carolina,288,p97
+Graham,North Carolina,288,p97
+Haywood,North Carolina,288,p97
+Henderson,North Carolina,288,p97
+Jackson,North Carolina,288,p97
+Macon,North Carolina,288,p97
+Madison,North Carolina,288,p97
+Mcdowell,North Carolina,288,p97
+Mitchell,North Carolina,288,p97
+Polk,North Carolina,288,p97
+Rutherford,North Carolina,288,p97
+Swain,North Carolina,288,p97
+Transylvania,North Carolina,288,p97
+Watauga,North Carolina,288,p97
+Wilkes,North Carolina,288,p97
+Yancey,North Carolina,288,p97
+Alexander,North Carolina,289,p97
+Davidson,North Carolina,289,p97
+Davie,North Carolina,289,p97
+Forsyth,North Carolina,289,p97
+Guilford,North Carolina,289,p97
+Iredell,North Carolina,289,p97
+Randolph,North Carolina,289,p97
+Rockingham,North Carolina,289,p97
+Rowan,North Carolina,289,p97
+Stokes,North Carolina,289,p97
+Surry,North Carolina,289,p97
+Yadkin,North Carolina,289,p97
+Anson,North Carolina,290,p97
+Cabarrus,North Carolina,290,p97
+Catawba,North Carolina,290,p97
+Gaston,North Carolina,290,p97
+Lincoln,North Carolina,290,p97
+Mecklenburg,North Carolina,290,p97
+Stanly,North Carolina,290,p97
+Union,North Carolina,290,p97
+Alamance,North Carolina,291,p98
+Caswell,North Carolina,291,p98
+Chatham,North Carolina,291,p98
+Durham,North Carolina,291,p98
+Franklin,North Carolina,291,p98
+Granville,North Carolina,291,p98
+Johnston,North Carolina,291,p98
+Orange,North Carolina,291,p98
+Person,North Carolina,291,p98
+Vance,North Carolina,291,p98
+Wake,North Carolina,291,p98
+Bladen,North Carolina,292,p98
+Brunswick,North Carolina,292,p98
+Columbus,North Carolina,292,p98
+Cumberland,North Carolina,292,p98
+Harnett,North Carolina,292,p98
+Hoke,North Carolina,292,p98
+Lee,North Carolina,292,p98
+Montgomery,North Carolina,292,p98
+Moore,North Carolina,292,p98
+Richmond,North Carolina,292,p98
+Robeson,North Carolina,292,p98
+Scotland,North Carolina,292,p98
+Bertie,North Carolina,293,p98
+Craven,North Carolina,293,p98
+Duplin,North Carolina,293,p98
+Edgecombe,North Carolina,293,p98
+Gates,North Carolina,293,p98
+Greene,North Carolina,293,p98
+Halifax,North Carolina,293,p98
+Hertford,North Carolina,293,p98
+Jones,North Carolina,293,p98
+Lenoir,North Carolina,293,p98
+Martin,North Carolina,293,p98
+Nash,North Carolina,293,p98
+New Hanover,North Carolina,293,p98
+Northampton,North Carolina,293,p98
+Onslow,North Carolina,293,p98
+Pender,North Carolina,293,p98
+Pitt,North Carolina,293,p98
+Sampson,North Carolina,293,p98
+Warren,North Carolina,293,p98
+Wayne,North Carolina,293,p98
+Wilson,North Carolina,293,p98
+Beaufort,North Carolina,294,p98
+Camden,North Carolina,294,p98
+Carteret,North Carolina,294,p98
+Chowan,North Carolina,294,p98
+Currituck,North Carolina,294,p98
+Dare,North Carolina,294,p98
+Hyde,North Carolina,294,p98
+Pamlico,North Carolina,294,p98
+Pasquotank,North Carolina,294,p98
+Perquimans,North Carolina,294,p98
+Tyrrell,North Carolina,294,p98
+Washington,North Carolina,294,p98
+Albemarle,Virginia,300,p99
+Alleghany,Virginia,300,p99
+Augusta,Virginia,300,p99
+Bath,Virginia,300,p99
+Buena Vista,Virginia,300,p99
+Buena Vista City,Virginia,300,p99
+Charlottesville,Virginia,300,p99
+Charlottesville City,Virginia,300,p99
+Covington,Virginia,300,p99
+Covington City,Virginia,300,p99
+Harrisonburg,Virginia,300,p99
+Harrisonburg City,Virginia,300,p99
+Highland,Virginia,300,p99
+Lexington,Virginia,300,p99
+Lexington City,Virginia,300,p99
+Rockbridge,Virginia,300,p99
+Rockingham,Virginia,300,p99
+Shenandoah,Virginia,300,p99
+Staunton,Virginia,300,p99
+Staunton City,Virginia,300,p99
+Waynesboro,Virginia,300,p99
+Waynesboro City,Virginia,300,p99
+Culpeper,Virginia,302,p99
+Fauquier,Virginia,302,p99
+Loudoun,Virginia,302,p99
+Alexandria,Virginia,303,p99
+Alexandria City,Virginia,303,p99
+Arlington,Virginia,303,p99
+Fairfax,Virginia,303,p99
+Fairfax City,Virginia,303,p99
+Falls Church,Virginia,303,p99
+Falls Church City,Virginia,303,p99
+Manassas,Virginia,303,p99
+Manassas City,Virginia,303,p99
+Manassas Park,Virginia,303,p99
+Manassas Park City,Virginia,303,p99
+Prince William,Virginia,303,p99
+Stafford,Virginia,303,p99
+Amelia,Virginia,304,p99
+Appomattox,Virginia,304,p99
+Brunswick,Virginia,304,p99
+Buckingham,Virginia,304,p99
+Campbell,Virginia,304,p99
+Charlotte,Virginia,304,p99
+Cumberland,Virginia,304,p99
+Danville,Virginia,304,p99
+Danville City,Virginia,304,p99
+Dinwiddie,Virginia,304,p99
+Emporia,Virginia,304,p99
+Emporia City,Virginia,304,p99
+Fluvanna,Virginia,304,p99
+Franklin City,Virginia,304,p99
+Fredericksburg,Virginia,304,p99
+Fredericksburg City,Virginia,304,p99
+Goochland,Virginia,304,p99
+Greensville,Virginia,304,p99
+Halifax,Virginia,304,p99
+Louisa,Virginia,304,p99
+Lunenburg,Virginia,304,p99
+Mecklenburg,Virginia,304,p99
+Nottoway,Virginia,304,p99
+Orange,Virginia,304,p99
+Pittsylvania,Virginia,304,p99
+Powhatan,Virginia,304,p99
+Prince Edward,Virginia,304,p99
+Southampton,Virginia,304,p99
+Spotsylvania,Virginia,304,p99
+Sussex,Virginia,304,p99
+Caroline,Virginia,305,p99
+Essex,Virginia,305,p99
+Gloucester,Virginia,305,p99
+James City,Virginia,305,p99
+King And Queen,Virginia,305,p99
+King & Queen,Virginia,305,p99
+King George,Virginia,305,p99
+King William,Virginia,305,p99
+Lancaster,Virginia,305,p99
+Mathews,Virginia,305,p99
+Middlesex,Virginia,305,p99
+Northumberland,Virginia,305,p99
+Richmond,Virginia,305,p99
+Westmoreland,Virginia,305,p99
+Williamsburg,Virginia,305,p99
+Williamsburg City,Virginia,305,p99
+Charles City,Virginia,306,p99
+Chesterfield,Virginia,306,p99
+Colonial Heights,Virginia,306,p99
+Colonial Heights City,Virginia,306,p99
+Hanover,Virginia,306,p99
+Henrico,Virginia,306,p99
+Hopewell,Virginia,306,p99
+Hopewell City,Virginia,306,p99
+New Kent,Virginia,306,p99
+Petersburg,Virginia,306,p99
+Petersburg City,Virginia,306,p99
+Prince George,Virginia,306,p99
+Richmond City,Virginia,306,p99
+Chesapeake,Virginia,307,p99
+Chesapeake City,Virginia,307,p99
+Hampton,Virginia,307,p99
+Hampton City,Virginia,307,p99
+Isle Of Wight,Virginia,307,p99
+Isle of Wight,Virginia,307,p99
+Newport News,Virginia,307,p99
+Newport News City,Virginia,307,p99
+Norfolk,Virginia,307,p99
+Norfolk City,Virginia,307,p99
+Poquoson,Virginia,307,p99
+Poquoson City,Virginia,307,p99
+Portsmouth,Virginia,307,p99
+Portsmouth City,Virginia,307,p99
+Suffolk,Virginia,307,p99
+Suffolk City,Virginia,307,p99
+Surry,Virginia,307,p99
+Virginia Beach,Virginia,307,p99
+Virginia Beach City,Virginia,307,p99
+York,Virginia,307,p99
+Clarke,Virginia,301,p100
+Frederick,Virginia,301,p100
+Greene,Virginia,301,p100
+Madison,Virginia,301,p100
+Page,Virginia,301,p100
+Rappahannock,Virginia,301,p100
+Warren,Virginia,301,p100
+Winchester,Virginia,301,p100
+Winchester City,Virginia,301,p100
+Alachua,Florida,309,p101
+Baker,Florida,309,p101
+Bradford,Florida,309,p101
+Citrus,Florida,309,p101
+Clay,Florida,309,p101
+Columbia,Florida,309,p101
+Dixie,Florida,309,p101
+Flagler,Florida,309,p101
+Franklin,Florida,309,p101
+Gadsden,Florida,309,p101
+Gilchrist,Florida,309,p101
+Hamilton,Florida,309,p101
+Jefferson,Florida,309,p101
+Lafayette,Florida,309,p101
+Leon,Florida,309,p101
+Levy,Florida,309,p101
+Liberty,Florida,309,p101
+Madison,Florida,309,p101
+Marion,Florida,309,p101
+Putnam,Florida,309,p101
+Suwannee,Florida,309,p101
+Taylor,Florida,309,p101
+Union,Florida,309,p101
+Wakulla,Florida,309,p101
+Duval,Florida,310,p101
+Nassau,Florida,310,p101
+St. Johns,Florida,310,p101
+Saint Johns,Florida,310,p101
+Hernando,Florida,311,p101
+Hillsborough,Florida,311,p101
+Lake,Florida,311,p101
+Orange,Florida,311,p101
+Osceola,Florida,311,p101
+Pasco,Florida,311,p101
+Pinellas,Florida,311,p101
+Polk,Florida,311,p101
+Seminole,Florida,311,p101
+Sumter,Florida,311,p101
+Volusia,Florida,311,p101
+Charlotte,Florida,312,p101
+Collier,Florida,312,p101
+Desoto,Florida,312,p101
+Glades,Florida,312,p101
+Hardee,Florida,312,p101
+Hendry,Florida,312,p101
+Highlands,Florida,312,p101
+Lee,Florida,312,p101
+Manatee,Florida,312,p101
+Monroe,Florida,312,p101
+Okeechobee,Florida,312,p101
+Sarasota,Florida,312,p101
+Brevard,Florida,313,p102
+Broward,Florida,313,p102
+Indian River,Florida,313,p102
+Martin,Florida,313,p102
+Miami-Dade,Florida,313,p102
+Miami Dade,Florida,313,p102
+Palm Beach,Florida,313,p102
+St. Lucie,Florida,313,p102
+Saint Lucie,Florida,313,p102
+Chippewa,Michigan,211,p103
+Luce,Michigan,211,p103
+Mackinac,Michigan,211,p103
+Schoolcraft,Michigan,211,p103
+Allegan,Michigan,212,p103
+Benzie,Michigan,212,p103
+Lake,Michigan,212,p103
+Leelanau,Michigan,212,p103
+Manistee,Michigan,212,p103
+Mason,Michigan,212,p103
+Muskegon,Michigan,212,p103
+Newaygo,Michigan,212,p103
+Oceana,Michigan,212,p103
+Ottawa,Michigan,212,p103
+Antrim,Michigan,214,p103
+Charlevoix,Michigan,214,p103
+Cheboygan,Michigan,214,p103
+Clare,Michigan,214,p103
+Crawford,Michigan,214,p103
+Emmet,Michigan,214,p103
+Gladwin,Michigan,214,p103
+Grand Traverse,Michigan,214,p103
+Isabella,Michigan,214,p103
+Kalkaska,Michigan,214,p103
+Mecosta,Michigan,214,p103
+Midland,Michigan,214,p103
+Missaukee,Michigan,214,p103
+Ogemaw,Michigan,214,p103
+Osceola,Michigan,214,p103
+Oscoda,Michigan,214,p103
+Otsego,Michigan,214,p103
+Roscommon,Michigan,214,p103
+Wexford,Michigan,214,p103
+Barry,Michigan,215,p103
+Branch,Michigan,215,p103
+Calhoun,Michigan,215,p103
+Clinton,Michigan,215,p103
+Eaton,Michigan,215,p103
+Gratiot,Michigan,215,p103
+Hillsdale,Michigan,215,p103
+Ingham,Michigan,215,p103
+Ionia,Michigan,215,p103
+Jackson,Michigan,215,p103
+Kent,Michigan,215,p103
+Lenawee,Michigan,215,p103
+Montcalm,Michigan,215,p103
+Alcona,Michigan,216,p103
+Alpena,Michigan,216,p103
+Arenac,Michigan,216,p103
+Iosco,Michigan,216,p103
+Montmorency,Michigan,216,p103
+Presque Isle,Michigan,216,p103
+Bay,Michigan,217,p103
+Genesee,Michigan,217,p103
+Lapeer,Michigan,217,p103
+Livingston,Michigan,217,p103
+Macomb,Michigan,217,p103
+Monroe,Michigan,217,p103
+Oakland,Michigan,217,p103
+Saginaw,Michigan,217,p103
+Shiawassee,Michigan,217,p103
+Washtenaw,Michigan,217,p103
+Wayne,Michigan,217,p103
+Huron,Michigan,218,p103
+Sanilac,Michigan,218,p103
+St. Clair,Michigan,218,p103
+Saint Clair,Michigan,218,p103
+Tuscola,Michigan,218,p103
+Berrien,Michigan,213,p104
+Cass,Michigan,213,p104
+Kalamazoo,Michigan,213,p104
+St. Joseph,Michigan,213,p104
+Saint Joseph,Michigan,213,p104
+Van Buren,Michigan,213,p104
+Lake,Indiana,219,p105
+Laporte,Indiana,219,p105
+Porter,Indiana,219,p105
+Elkhart,Indiana,220,p105
+St. Joseph,Indiana,220,p105
+Saint Joseph,Indiana,220,p105
+Benton,Indiana,221,p105
+Fountain,Indiana,221,p105
+Fulton,Indiana,221,p105
+Hendricks,Indiana,221,p105
+Jasper,Indiana,221,p105
+Marshall,Indiana,221,p105
+Montgomery,Indiana,221,p105
+Newton,Indiana,221,p105
+Parke,Indiana,221,p105
+Pulaski,Indiana,221,p105
+Putnam,Indiana,221,p105
+Starke,Indiana,221,p105
+Vermillion,Indiana,221,p105
+Vigo,Indiana,221,p105
+Warren,Indiana,221,p105
+White,Indiana,221,p105
+Boone,Indiana,222,p105
+Carroll,Indiana,222,p105
+Clinton,Indiana,222,p105
+Tippecanoe,Indiana,222,p105
+Dekalb,Indiana,225,p105
+Kosciusko,Indiana,225,p105
+Lagrange,Indiana,225,p105
+Noble,Indiana,225,p105
+Steuben,Indiana,225,p105
+Whitley,Indiana,225,p105
+Adams,Indiana,226,p105
+Allen,Indiana,226,p105
+Blackford,Indiana,226,p105
+Cass,Indiana,226,p105
+Delaware,Indiana,226,p105
+Grant,Indiana,226,p105
+Hancock,Indiana,226,p105
+Howard,Indiana,226,p105
+Huntington,Indiana,226,p105
+Jay,Indiana,226,p105
+Madison,Indiana,226,p105
+Miami,Indiana,226,p105
+Randolph,Indiana,226,p105
+Tipton,Indiana,226,p105
+Wabash,Indiana,226,p105
+Wells,Indiana,226,p105
+Hamilton,Indiana,223,p106
+Marion,Indiana,223,p106
+Bartholomew,Indiana,224,p107
+Brown,Indiana,224,p107
+Clark,Indiana,224,p107
+Clay,Indiana,224,p107
+Crawford,Indiana,224,p107
+Daviess,Indiana,224,p107
+Dearborn,Indiana,224,p107
+Decatur,Indiana,224,p107
+Dubois,Indiana,224,p107
+Fayette,Indiana,224,p107
+Floyd,Indiana,224,p107
+Franklin,Indiana,224,p107
+Gibson,Indiana,224,p107
+Greene,Indiana,224,p107
+Harrison,Indiana,224,p107
+Henry,Indiana,224,p107
+Jackson,Indiana,224,p107
+Jefferson,Indiana,224,p107
+Jennings,Indiana,224,p107
+Johnson,Indiana,224,p107
+Knox,Indiana,224,p107
+Lawrence,Indiana,224,p107
+Martin,Indiana,224,p107
+Monroe,Indiana,224,p107
+Morgan,Indiana,224,p107
+Ohio,Indiana,224,p107
+Orange,Indiana,224,p107
+Owen,Indiana,224,p107
+Perry,Indiana,224,p107
+Pike,Indiana,224,p107
+Posey,Indiana,224,p107
+Ripley,Indiana,224,p107
+Rush,Indiana,224,p107
+Scott,Indiana,224,p107
+Shelby,Indiana,224,p107
+Spencer,Indiana,224,p107
+Sullivan,Indiana,224,p107
+Switzerland,Indiana,224,p107
+Union,Indiana,224,p107
+Vanderburgh,Indiana,224,p107
+Warrick,Indiana,224,p107
+Washington,Indiana,224,p107
+Wayne,Indiana,224,p107
+Breckinridge,Kentucky,236,p108
+Caldwell,Kentucky,236,p108
+Crittenden,Kentucky,236,p108
+Daviess,Kentucky,236,p108
+Grayson,Kentucky,236,p108
+Hancock,Kentucky,236,p108
+Henderson,Kentucky,236,p108
+Hopkins,Kentucky,236,p108
+Mclean,Kentucky,236,p108
+Muhlenberg,Kentucky,236,p108
+Ohio,Kentucky,236,p108
+Union,Kentucky,236,p108
+Webster,Kentucky,236,p108
+Bullitt,Kentucky,237,p109
+Hardin,Kentucky,237,p109
+Jefferson,Kentucky,237,p109
+Meade,Kentucky,237,p109
+Oldham,Kentucky,237,p109
+Trimble,Kentucky,237,p109
+Bath,Kentucky,238,p109
+Boone,Kentucky,238,p109
+Bracken,Kentucky,238,p109
+Campbell,Kentucky,238,p109
+Carroll,Kentucky,238,p109
+Elliott,Kentucky,238,p109
+Fleming,Kentucky,238,p109
+Franklin,Kentucky,238,p109
+Gallatin,Kentucky,238,p109
+Grant,Kentucky,238,p109
+Greenup,Kentucky,238,p109
+Harrison,Kentucky,238,p109
+Henry,Kentucky,238,p109
+Johnson,Kentucky,238,p109
+Kenton,Kentucky,238,p109
+Lewis,Kentucky,238,p109
+Magoffin,Kentucky,238,p109
+Mason,Kentucky,238,p109
+Menifee,Kentucky,238,p109
+Montgomery,Kentucky,238,p109
+Morgan,Kentucky,238,p109
+Nicholas,Kentucky,238,p109
+Owen,Kentucky,238,p109
+Pendleton,Kentucky,238,p109
+Robertson,Kentucky,238,p109
+Rowan,Kentucky,238,p109
+Wolfe,Kentucky,238,p109
+Bourbon,Kentucky,239,p109
+Clark,Kentucky,239,p109
+Fayette,Kentucky,239,p109
+Jessamine,Kentucky,239,p109
+Scott,Kentucky,239,p109
+Woodford,Kentucky,239,p109
+Adair,Kentucky,240,p109
+Anderson,Kentucky,240,p109
+Barren,Kentucky,240,p109
+Boyle,Kentucky,240,p109
+Casey,Kentucky,240,p109
+Clay,Kentucky,240,p109
+Edmonson,Kentucky,240,p109
+Estill,Kentucky,240,p109
+Garrard,Kentucky,240,p109
+Green,Kentucky,240,p109
+Hart,Kentucky,240,p109
+Jackson,Kentucky,240,p109
+Larue,Kentucky,240,p109
+Laurel,Kentucky,240,p109
+Lee,Kentucky,240,p109
+Lincoln,Kentucky,240,p109
+Madison,Kentucky,240,p109
+Marion,Kentucky,240,p109
+Mercer,Kentucky,240,p109
+Nelson,Kentucky,240,p109
+Owsley,Kentucky,240,p109
+Powell,Kentucky,240,p109
+Rockcastle,Kentucky,240,p109
+Shelby,Kentucky,240,p109
+Spencer,Kentucky,240,p109
+Taylor,Kentucky,240,p109
+Washington,Kentucky,240,p109
+Bell,Kentucky,241,p109
+Harlan,Kentucky,241,p109
+Knox,Kentucky,241,p109
+Whitley,Kentucky,241,p109
+Boyd,Kentucky,242,p110
+Breathitt,Kentucky,242,p110
+Carter,Kentucky,242,p110
+Floyd,Kentucky,242,p110
+Knott,Kentucky,242,p110
+Lawrence,Kentucky,242,p110
+Leslie,Kentucky,242,p110
+Letcher,Kentucky,242,p110
+Martin,Kentucky,242,p110
+Perry,Kentucky,242,p110
+Pike,Kentucky,242,p110
+Fulton,Ohio,227,p111
+Lucas,Ohio,227,p111
+Ottawa,Ohio,227,p111
+Sandusky,Ohio,227,p111
+Wood,Ohio,227,p111
+Ashtabula,Ohio,234,p111
+Columbiana,Ohio,234,p111
+Cuyahoga,Ohio,234,p111
+Erie,Ohio,234,p111
+Geauga,Ohio,234,p111
+Lake,Ohio,234,p111
+Lorain,Ohio,234,p111
+Mahoning,Ohio,234,p111
+Medina,Ohio,234,p111
+Portage,Ohio,234,p111
+Stark,Ohio,234,p111
+Summit,Ohio,234,p111
+Trumbull,Ohio,234,p111
+Allen,Ohio,228,p112
+Auglaize,Ohio,228,p112
+Champaign,Ohio,228,p112
+Crawford,Ohio,228,p112
+Darke,Ohio,228,p112
+Defiance,Ohio,228,p112
+Hancock,Ohio,228,p112
+Hardin,Ohio,228,p112
+Henry,Ohio,228,p112
+Huron,Ohio,228,p112
+Knox,Ohio,228,p112
+Logan,Ohio,228,p112
+Marion,Ohio,228,p112
+Mercer,Ohio,228,p112
+Morrow,Ohio,228,p112
+Paulding,Ohio,228,p112
+Putnam,Ohio,228,p112
+Seneca,Ohio,228,p112
+Shelby,Ohio,228,p112
+Van Wert,Ohio,228,p112
+Williams,Ohio,228,p112
+Wyandot,Ohio,228,p112
+Delaware,Ohio,229,p112
+Fairfield,Ohio,229,p112
+Franklin,Ohio,229,p112
+Licking,Ohio,229,p112
+Pickaway,Ohio,229,p112
+Union,Ohio,229,p112
+Adams,Ohio,232,p112
+Athens,Ohio,232,p112
+Gallia,Ohio,232,p112
+Highland,Ohio,232,p112
+Hocking,Ohio,232,p112
+Jackson,Ohio,232,p112
+Lawrence,Ohio,232,p112
+Meigs,Ohio,232,p112
+Pike,Ohio,232,p112
+Ross,Ohio,232,p112
+Scioto,Ohio,232,p112
+Vinton,Ohio,232,p112
+Ashland,Ohio,233,p112
+Richland,Ohio,233,p112
+Belmont,Ohio,235,p112
+Carroll,Ohio,235,p112
+Coshocton,Ohio,235,p112
+Guernsey,Ohio,235,p112
+Harrison,Ohio,235,p112
+Holmes,Ohio,235,p112
+Jefferson,Ohio,235,p112
+Monroe,Ohio,235,p112
+Morgan,Ohio,235,p112
+Muskingum,Ohio,235,p112
+Noble,Ohio,235,p112
+Perry,Ohio,235,p112
+Tuscarawas,Ohio,235,p112
+Washington,Ohio,235,p112
+Wayne,Ohio,235,p112
+Clark,Ohio,230,p113
+Clinton,Ohio,230,p113
+Fayette,Ohio,230,p113
+Greene,Ohio,230,p113
+Madison,Ohio,230,p113
+Miami,Ohio,230,p113
+Montgomery,Ohio,230,p113
+Preble,Ohio,230,p113
+Brown,Ohio,231,p114
+Butler,Ohio,231,p114
+Clermont,Ohio,231,p114
+Hamilton,Ohio,231,p114
+Warren,Ohio,231,p114
+Allegheny,Pennsylvania,251,p115
+Beaver,Pennsylvania,251,p115
+Armstrong,Pennsylvania,252,p115
+Butler,Pennsylvania,252,p115
+Fayette,Pennsylvania,252,p115
+Greene,Pennsylvania,252,p115
+Washington,Pennsylvania,252,p115
+Westmoreland,Pennsylvania,252,p115
+Barbour,West Virginia,249,p116
+Braxton,West Virginia,249,p116
+Brooke,West Virginia,249,p116
+Calhoun,West Virginia,249,p116
+Clay,West Virginia,249,p116
+Doddridge,West Virginia,249,p116
+Gilmer,West Virginia,249,p116
+Greenbrier,West Virginia,249,p116
+Hancock,West Virginia,249,p116
+Harrison,West Virginia,249,p116
+Jackson,West Virginia,249,p116
+Lewis,West Virginia,249,p116
+Marion,West Virginia,249,p116
+Marshall,West Virginia,249,p116
+Monongalia,West Virginia,249,p116
+Monroe,West Virginia,249,p116
+Nicholas,West Virginia,249,p116
+Ohio,West Virginia,249,p116
+Pleasants,West Virginia,249,p116
+Ritchie,West Virginia,249,p116
+Roane,West Virginia,249,p116
+Summers,West Virginia,249,p116
+Taylor,West Virginia,249,p116
+Tyler,West Virginia,249,p116
+Upshur,West Virginia,249,p116
+Webster,West Virginia,249,p116
+Wetzel,West Virginia,249,p116
+Wirt,West Virginia,249,p116
+Wood,West Virginia,249,p116
+Grant,West Virginia,250,p116
+Mineral,West Virginia,250,p116
+Pendleton,West Virginia,250,p116
+Pocahontas,West Virginia,250,p116
+Preston,West Virginia,250,p116
+Randolph,West Virginia,250,p116
+Tucker,West Virginia,250,p116
+Berkeley,West Virginia,308,p116
+Hampshire,West Virginia,308,p116
+Hardy,West Virginia,308,p116
+Jefferson,West Virginia,308,p116
+Morgan,West Virginia,308,p116
+Cabell,West Virginia,246,p117
+Kanawha,West Virginia,246,p117
+Mason,West Virginia,246,p117
+Putnam,West Virginia,246,p117
+Boone,West Virginia,247,p117
+Lincoln,West Virginia,247,p117
+Logan,West Virginia,247,p117
+Mingo,West Virginia,247,p117
+Wayne,West Virginia,247,p117
+Fayette,West Virginia,248,p117
+Mcdowell,West Virginia,248,p117
+Mercer,West Virginia,248,p117
+Raleigh,West Virginia,248,p117
+Wyoming,West Virginia,248,p117
+Bland,Virginia,243,p118
+Bristol,Virginia,243,p118
+Bristol City,Virginia,243,p118
+Buchanan,Virginia,243,p118
+Dickenson,Virginia,243,p118
+Giles,Virginia,243,p118
+Lee,Virginia,243,p118
+Norton,Virginia,243,p118
+Norton City,Virginia,243,p118
+Russell,Virginia,243,p118
+Scott,Virginia,243,p118
+Smyth,Virginia,243,p118
+Tazewell,Virginia,243,p118
+Washington,Virginia,243,p118
+Wise,Virginia,243,p118
+Carroll,Virginia,244,p118
+Floyd,Virginia,244,p118
+Franklin,Virginia,244,p118
+Galax,Virginia,244,p118
+Galax City,Virginia,244,p118
+Grayson,Virginia,244,p118
+Henry,Virginia,244,p118
+Martinsville,Virginia,244,p118
+Martinsville City,Virginia,244,p118
+Montgomery,Virginia,244,p118
+Patrick,Virginia,244,p118
+Pulaski,Virginia,244,p118
+Radford,Virginia,244,p118
+Radford City,Virginia,244,p118
+Wythe,Virginia,244,p118
+Amherst,Virginia,245,p118
+Bedford,Virginia,245,p118
+Bedford City,Virginia,245,p118
+Botetourt,Virginia,245,p118
+Craig,Virginia,245,p118
+Lynchburg,Virginia,245,p118
+Lynchburg City,Virginia,245,p118
+Nelson,Virginia,245,p118
+Roanoke,Virginia,245,p118
+Roanoke City,Virginia,245,p118
+Salem,Virginia,245,p118
+Salem City,Virginia,245,p118
+Cameron,Pennsylvania,255,p119
+Centre,Pennsylvania,255,p119
+Clinton,Pennsylvania,255,p119
+Elk,Pennsylvania,255,p119
+Potter,Pennsylvania,255,p119
+Franklin,Pennsylvania,254,p120
+Fulton,Pennsylvania,254,p120
+Allegany,Maryland,253,p121
+Frederick,Maryland,253,p121
+Garrett,Maryland,253,p121
+Washington,Maryland,253,p121
+Erie,Pennsylvania,320,p122
+Forest,Pennsylvania,320,p122
+Mckean,Pennsylvania,320,p122
+Warren,Pennsylvania,320,p122
+Clarion,Pennsylvania,321,p122
+Clearfield,Pennsylvania,321,p122
+Crawford,Pennsylvania,321,p122
+Indiana,Pennsylvania,321,p122
+Jefferson,Pennsylvania,321,p122
+Lawrence,Pennsylvania,321,p122
+Mercer,Pennsylvania,321,p122
+Venango,Pennsylvania,321,p122
+Bedford,Pennsylvania,322,p122
+Blair,Pennsylvania,322,p122
+Cambria,Pennsylvania,322,p122
+Columbia,Pennsylvania,322,p122
+Huntingdon,Pennsylvania,322,p122
+Juniata,Pennsylvania,322,p122
+Mifflin,Pennsylvania,322,p122
+Montour,Pennsylvania,322,p122
+Northumberland,Pennsylvania,322,p122
+Perry,Pennsylvania,322,p122
+Snyder,Pennsylvania,322,p122
+Somerset,Pennsylvania,322,p122
+Union,Pennsylvania,322,p122
+Bradford,Pennsylvania,323,p122
+Lycoming,Pennsylvania,323,p122
+Sullivan,Pennsylvania,323,p122
+Susquehanna,Pennsylvania,323,p122
+Tioga,Pennsylvania,323,p122
+Wayne,Pennsylvania,323,p122
+Lackawanna,Pennsylvania,324,p122
+Luzerne,Pennsylvania,324,p122
+Wyoming,Pennsylvania,324,p122
+Carbon,Pennsylvania,325,p122
+Monroe,Pennsylvania,325,p122
+Pike,Pennsylvania,325,p122
+Schuylkill,Pennsylvania,325,p122
+Adams,Pennsylvania,326,p122
+Berks,Pennsylvania,326,p122
+Cumberland,Pennsylvania,326,p122
+Dauphin,Pennsylvania,326,p122
+Lancaster,Pennsylvania,326,p122
+Lebanon,Pennsylvania,326,p122
+Lehigh,Pennsylvania,326,p122
+Northampton,Pennsylvania,326,p122
+York,Pennsylvania,326,p122
+Bucks,Pennsylvania,327,p122
+Chester,Pennsylvania,327,p122
+Delaware,Pennsylvania,327,p122
+Montgomery,Pennsylvania,327,p122
+Philadelphia,Pennsylvania,327,p122
+Somerset,Maryland,315,p123
+Wicomico,Maryland,315,p123
+Worcester,Maryland,315,p123
+Caroline,Maryland,316,p123
+Dorchester,Maryland,316,p123
+Kent,Maryland,316,p123
+Queen Anne'S,Maryland,316,p123
+Queen Annes,Maryland,316,p123
+Talbot,Maryland,316,p123
+District Of Columbia,District Of Columbia,317,p123
+District of Columbia,District Of Columbia,317,p123
+Anne Arundel,Maryland,317,p123
+Baltimore,Maryland,317,p123
+Baltimore City,Maryland,317,p123
+Calvert,Maryland,317,p123
+Carroll,Maryland,317,p123
+Cecil,Maryland,317,p123
+Charles,Maryland,317,p123
+Harford,Maryland,317,p123
+Howard,Maryland,317,p123
+Montgomery,Maryland,317,p123
+Prince George'S,Maryland,317,p123
+Prince Georges,Maryland,317,p123
+St. Mary'S,Maryland,317,p123
+Saint Mary's,Maryland,317,p123
+Saint Marys,Maryland,317,p123
+Accomack,Virginia,314,p124
+Northampton,Virginia,314,p124
+Kent,Delaware,318,p125
+Sussex,Delaware,318,p125
+New Castle,Delaware,319,p125
+Sussex,New Jersey,328,p126
+Warren,New Jersey,328,p126
+Bergen,New Jersey,329,p126
+Essex,New Jersey,329,p126
+Hudson,New Jersey,329,p126
+Hunterdon,New Jersey,329,p126
+Mercer,New Jersey,329,p126
+Middlesex,New Jersey,329,p126
+Morris,New Jersey,329,p126
+Passaic,New Jersey,329,p126
+Somerset,New Jersey,329,p126
+Union,New Jersey,329,p126
+Monmouth,New Jersey,330,p126
+Ocean,New Jersey,330,p126
+Burlington,New Jersey,331,p126
+Camden,New Jersey,331,p126
+Gloucester,New Jersey,331,p126
+Salem,New Jersey,331,p126
+Atlantic,New Jersey,332,p126
+Cape May,New Jersey,332,p126
+Cumberland,New Jersey,332,p126
+Chautauqua,New York,333,p127
+Erie,New York,333,p127
+Genesee,New York,333,p127
+Niagara,New York,333,p127
+Orleans,New York,333,p127
+Wyoming,New York,333,p127
+Cayuga,New York,334,p127
+Madison,New York,334,p127
+Monroe,New York,334,p127
+Oneida,New York,334,p127
+Onondaga,New York,334,p127
+Wayne,New York,334,p127
+Allegany,New York,335,p127
+Broome,New York,335,p127
+Cattaraugus,New York,335,p127
+Chemung,New York,335,p127
+Cortland,New York,335,p127
+Livingston,New York,335,p127
+Ontario,New York,335,p127
+Schuyler,New York,335,p127
+Seneca,New York,335,p127
+Steuben,New York,335,p127
+Tioga,New York,335,p127
+Tompkins,New York,335,p127
+Yates,New York,335,p127
+Jefferson,New York,336,p127
+Oswego,New York,336,p127
+Herkimer,New York,337,p127
+Lewis,New York,337,p127
+St. Lawrence,New York,337,p127
+Saint Lawrence,New York,337,p127
+Clinton,New York,338,p127
+Essex,New York,338,p127
+Franklin,New York,338,p127
+Fulton,New York,338,p127
+Hamilton,New York,338,p127
+Montgomery,New York,338,p127
+Warren,New York,338,p127
+Albany,New York,339,p127
+Chenango,New York,339,p127
+Delaware,New York,339,p127
+Greene,New York,339,p127
+Otsego,New York,339,p127
+Schoharie,New York,339,p127
+Sullivan,New York,339,p127
+Ulster,New York,339,p127
+Columbia,New York,340,p127
+Rensselaer,New York,340,p127
+Saratoga,New York,340,p127
+Schenectady,New York,340,p127
+Washington,New York,340,p127
+Bronx,New York,341,p127
+Dutchess,New York,341,p127
+Kings,New York,341,p127
+New York,New York,341,p127
+Orange,New York,341,p127
+Putnam,New York,341,p127
+Queens,New York,341,p127
+Richmond,New York,341,p127
+Rockland,New York,341,p127
+Westchester,New York,341,p127
+Nassau,New York,342,p128
+Suffolk,New York,342,p128
+Chittenden,Vermont,350,p129
+Franklin,Vermont,350,p129
+Grand Isle,Vermont,350,p129
+Addison,Vermont,351,p129
+Caledonia,Vermont,351,p129
+Essex,Vermont,351,p129
+Lamoille,Vermont,351,p129
+Orange,Vermont,351,p129
+Orleans,Vermont,351,p129
+Washington,Vermont,351,p129
+Bennington,Vermont,352,p129
+Rutland,Vermont,352,p129
+Windham,Vermont,352,p129
+Windsor,Vermont,352,p129
+Belknap,New Hampshire,353,p130
+Carroll,New Hampshire,353,p130
+Coos,New Hampshire,353,p130
+Grafton,New Hampshire,353,p130
+Cheshire,New Hampshire,354,p130
+Hillsborough,New Hampshire,354,p130
+Merrimack,New Hampshire,354,p130
+Rockingham,New Hampshire,354,p130
+Strafford,New Hampshire,354,p130
+Sullivan,New Hampshire,354,p130
+Berkshire,Massachusetts,347,p131
+Franklin,Massachusetts,347,p131
+Hampden,Massachusetts,347,p131
+Hampshire,Massachusetts,347,p131
+Worcester,Massachusetts,347,p131
+Bristol,Massachusetts,348,p131
+Essex,Massachusetts,348,p131
+Middlesex,Massachusetts,348,p131
+Norfolk,Massachusetts,348,p131
+Plymouth,Massachusetts,348,p131
+Suffolk,Massachusetts,348,p131
+Barnstable,Massachusetts,349,p131
+Dukes,Massachusetts,349,p131
+Nantucket,Massachusetts,349,p131
+Hartford,Connecticut,343,p132
+Litchfield,Connecticut,343,p132
+Tolland,Connecticut,343,p132
+Windham,Connecticut,343,p132
+Fairfield,Connecticut,344,p132
+Middlesex,Connecticut,344,p132
+New Haven,Connecticut,344,p132
+New London,Connecticut,344,p132
+Kent,Rhode Island,345,p133
+Providence,Rhode Island,345,p133
+Washington,Rhode Island,345,p133
+Bristol,Rhode Island,346,p133
+Newport,Rhode Island,346,p133
+Aroostook,Maine,355,p134
+Franklin,Maine,355,p134
+Oxford,Maine,355,p134
+Piscataquis,Maine,355,p134
+Somerset,Maine,355,p134
+Androscoggin,Maine,356,p134
+Cumberland,Maine,356,p134
+Hancock,Maine,356,p134
+Kennebec,Maine,356,p134
+Knox,Maine,356,p134
+Lincoln,Maine,356,p134
+Penobscot,Maine,356,p134
+Sagadahoc,Maine,356,p134
+Waldo,Maine,356,p134
+Washington,Maine,356,p134
+York,Maine,356,p134
