@@ -9,4 +9,4 @@ creates the plant data formatted correctly needed for the gdx files, outputs/nee
 creates adds VOM/FOM data and formats files for the ReEDS CAV plantfile, outputs/needs_final2.csv
 
 3. save a copy of outputs/needs_final2.csv in gdx_generator and follow skhanal instructions in gdx_generator
-note: I have very little to the skhanal setup that was provided to me by NREL
+note: I have made only minor edits to the skhanal setup that was provided to me by NREL
