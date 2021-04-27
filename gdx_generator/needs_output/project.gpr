@@ -1,0 +1,14 @@
+[PROJECT]
+
+[RP:CSV2GDX_CONVERTER]
+1=
+
+[OPENWINDOW_1]
+FILE0=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\NEEDS_project\gdx_generator\creating_gdx_files\csv2gdx_converter.gms
+FILE1=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\NEEDS_project\gdx_generator\needs_output\csv2gdx_converter.lst
+FILE2=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\NEEDS_project\gdx_generator\needs_output\csv2gdx_converter.lst
+MAXIM=0
+TOP=50
+LEFT=50
+HEIGHT=400
+WIDTH=400
