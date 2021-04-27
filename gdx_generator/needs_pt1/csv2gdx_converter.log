@@ -1,0 +1,85 @@
+
+--- Job csv2gdx_converter.gms Start 02/04/21 13:15:32 24.9.2 r64480 WEX-WEI x86 64bit/MS Windows
+GAMS 24.9.2   Copyright (C) 1987-2017 GAMS Development. All rights reserved
+Licensee: Large MUD - 20 User License                    G170913:1610CS-WIN
+          US Environmental Protection Agency, CGE Modeling Group 003DC13550
+          License Admin: Eric Smith, smith.eric@epa.gov                    
+--- Starting compilation
+--- csv2gdx_converter.gms(6) 2 Mb
+--- call csv2gdx CONVOLDqctn.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(7) 2 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\CONVOLDqctn.gdx
+--- csv2gdx_converter.gms(10) 3 Mb
+--- call csv2gdx import_store_power_cap_at_grid.csv id=d index=1..2 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(11) 3 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\import_store_power_cap_at_grid.gdx
+--- csv2gdx_converter.gms(14) 3 Mb
+--- call csv2gdx PrescriptiveBuildsNonQn.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(15) 3 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\PrescriptiveBuildsNonQn.gdx
+--- csv2gdx_converter.gms(18) 3 Mb
+--- call csv2gdx PrescriptiveBuildsnqct.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(19) 3 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\PrescriptiveBuildsnqct.gdx
+--- csv2gdx_converter.gms(22) 3 Mb
+--- call csv2gdx PrescriptiveBuildsStorage.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(23) 3 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\PrescriptiveBuildsStorage.gdx
+--- csv2gdx_converter.gms(26) 3 Mb
+--- call csv2gdx PrescriptiveBuildsWind.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(27) 3 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\PrescriptiveBuildsWind.gdx
+--- csv2gdx_converter.gms(30) 3 Mb
+--- call csv2gdx Nuke60RetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(31) 3 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\Nuke60RetireYear.gdx
+--- csv2gdx_converter.gms(34) 4 Mb
+--- call csv2gdx Nuke80RetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(35) 4 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\Nuke80RetireYear.gdx
+--- csv2gdx_converter.gms(38) 4 Mb
+--- call csv2gdx NukeRefRetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(39) 4 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\NukeRefRetireYear.gdx
+--- csv2gdx_converter.gms(42) 4 Mb
+--- call csv2gdx NukeEarlyRetireYear.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(43) 4 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\NukeEarlyRetireYear.gdx
+--- csv2gdx_converter.gms(46) 5 Mb
+--- call csv2gdx PrescriptiveRet.csv id=d index=1..4 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(47) 5 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\PrescriptiveRet.gdx
+--- csv2gdx_converter.gms(50) 5 Mb
+--- call csv2gdx WindRetireExisting.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(51) 5 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\WindRetireExisting.gdx
+--- csv2gdx_converter.gms(54) 5 Mb
+--- call csv2gdx WindRetirePrescribed.csv id=d index=1..3 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(55) 5 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\WindRetirePrescribed.gdx
+--- csv2gdx_converter.gms(58) 5 Mb
+--- call csv2gdx tmpCSPOct.csv id=d index=1..2 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(59) 5 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\tmpCSPOct.gdx
+--- csv2gdx_converter.gms(62) 5 Mb
+--- call csv2gdx tmpDUPVOn.csv id=d index=1 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(63) 5 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\tmpDUPVOn.gdx
+--- csv2gdx_converter.gms(66) 5 Mb
+--- call csv2gdx tmpUPVOn.csv id=d index=1 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(67) 5 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\tmpUPVOn.gdx
+--- csv2gdx_converter.gms(70) 5 Mb
+--- call csv2gdx tmpWTOi.csv id=d index=1 values=lastCol useHeader=y trace=0
+--- csv2gdx_converter.gms(71) 5 Mb
+--- GDXin=C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\tmpWTOi.gdx
+--- csv2gdx_converter.gms(78) 5 Mb
+--- Starting execution: elapsed 0:00:12.360
+--- csv2gdx_converter.gms(74) 6 Mb
+--- GDX File C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\ExistingUnits_EIA-NEMS.gdx
+--- csv2gdx_converter.gms(76) 6 Mb
+--- GDX File C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\PrescriptiveBuilds_EIA-NEMS.gdx
+--- csv2gdx_converter.gms(78) 6 Mb
+--- GDX File C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop\py_projects\plantfile\gdx_NEEDS_old\post_ct_mapping\post_wst_implementation\needs_pt1\PrescriptiveRetirements_EIA-NEMS.gdx
+*** Status: Normal completion
+--- Job csv2gdx_converter.gms Stop 02/04/21 13:15:45 elapsed 0:00:12.500
