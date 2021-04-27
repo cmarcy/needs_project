@@ -9,13 +9,13 @@ import pandas as pd
 import os
 import numpy as np
 
-os.chdir('C:/Users/CMARCY/OneDrive - Environmental Protection Agency (EPA)/Desktop/py_projects/plantfile/gdx_NEEDS')
+os.chdir('C:/Users/CMARCY/OneDrive - Environmental Protection Agency (EPA)/Desktop/py_projects/plantfile/NEEDS_project/gdx_generator')
 
 # =============================================================================
 # Generating input files for ReEDS
 # =============================================================================
 
-nems = pd.read_csv('needs_final.csv', low_memory=False)
+nems = pd.read_csv('needs_final2.csv', low_memory=False)
 
 nems.rename(columns={' T_PCA':'pca'}, inplace=True)
 
@@ -136,26 +136,25 @@ WindRetirePrescribed = WindRetirePrescribed[WindRetirePrescribed['tech'].isin(['
 WindRetirePrescribed = WindRetirePrescribed[WindRetirePrescribed['RetireYear']>=2040].reset_index(drop=True)
 WindRetirePrescribed = WindRetirePrescribed[['resource_region','tech','RetireYear','cap']].groupby(by=['resource_region','tech','RetireYear'], as_index=False).sum()
 
-#if not os.path.exists(os.path.join('post_ct_mapping','post_wst_implementation')):
-#    os.mkdir(os.path.join('C:/Users/cmarcy/Desktop/py_projects/plantfile/gdx_test','post_ct_mapping'))
-#    os.mkdir(os.path.join('C:/Users/cmarcy/Desktop/py_projects/plantfile/gdx_test','post_ct_mapping','post_wst_implementation'))
-CONVOLDqctn.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','CONVOLDqctn.csv'),index=False)
-import_store_power_cap_at_grid.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','import_store_power_cap_at_grid.csv'),index=False)
-tmpCSPOct.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','tmpCSPOct.csv'),index=False)
-tmpDUPVOn.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','tmpDUPVOn.csv'),index=False)
-tmpUPVOn.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','tmpUPVOn.csv'),index=False)
-tmpWTOi.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','tmpWTOi.csv'),index=False)
-PrescriptiveBuildsNonQn.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','PrescriptiveBuildsNonQn.csv'),index=False)
-PrescriptiveBuildsnqct.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','PrescriptiveBuildsnqct.csv'),index=False)
-PrescriptiveBuildsStorage.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','PrescriptiveBuildsStorage.csv'),index=False)
-PrescriptiveBuildsWind.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','PrescriptiveBuildsWind.csv'),index=False)
-Nuke60RetireYear.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','Nuke60RetireYear.csv'),index=False)
-Nuke80RetireYear.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','Nuke80RetireYear.csv'),index=False)
-NukeRefRetireYear.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','NukeRefRetireYear.csv'),index=False)
-NukeEarlyRetireYear.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','NukeEarlyRetireYear.csv'),index=False)
-PrescriptiveRet.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','PrescriptiveRet.csv'),index=False)
-WindRetireExisting.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','WindRetireExisting.csv'),index=False)
-WindRetirePrescribed.to_csv(os.path.join('post_ct_mapping','post_wst_implementation','WindRetirePrescribed.csv'),index=False)
+if not os.path.exists(os.path.join('needs_output')):
+    os.mkdir(os.path.join('needs_output'))
+CONVOLDqctn.to_csv(os.path.join('needs_output','CONVOLDqctn.csv'),index=False)
+import_store_power_cap_at_grid.to_csv(os.path.join('needs_output','import_store_power_cap_at_grid.csv'),index=False)
+tmpCSPOct.to_csv(os.path.join('needs_output','tmpCSPOct.csv'),index=False)
+tmpDUPVOn.to_csv(os.path.join('needs_output','tmpDUPVOn.csv'),index=False)
+tmpUPVOn.to_csv(os.path.join('needs_output','tmpUPVOn.csv'),index=False)
+tmpWTOi.to_csv(os.path.join('needs_output','tmpWTOi.csv'),index=False)
+PrescriptiveBuildsNonQn.to_csv(os.path.join('needs_output','PrescriptiveBuildsNonQn.csv'),index=False)
+PrescriptiveBuildsnqct.to_csv(os.path.join('needs_output','PrescriptiveBuildsnqct.csv'),index=False)
+PrescriptiveBuildsStorage.to_csv(os.path.join('needs_output','PrescriptiveBuildsStorage.csv'),index=False)
+PrescriptiveBuildsWind.to_csv(os.path.join('needs_output','PrescriptiveBuildsWind.csv'),index=False)
+Nuke60RetireYear.to_csv(os.path.join('needs_output','Nuke60RetireYear.csv'),index=False)
+Nuke80RetireYear.to_csv(os.path.join('needs_output','Nuke80RetireYear.csv'),index=False)
+NukeRefRetireYear.to_csv(os.path.join('needs_output','NukeRefRetireYear.csv'),index=False)
+NukeEarlyRetireYear.to_csv(os.path.join('needs_output','NukeEarlyRetireYear.csv'),index=False)
+PrescriptiveRet.to_csv(os.path.join('needs_output','PrescriptiveRet.csv'),index=False)
+WindRetireExisting.to_csv(os.path.join('needs_output','WindRetireExisting.csv'),index=False)
+WindRetirePrescribed.to_csv(os.path.join('needs_output','WindRetirePrescribed.csv'),index=False)
 
 # =============================================================================
 # Finalizing units file
