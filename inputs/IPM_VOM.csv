@@ -1,0 +1,44 @@
+Capacity Type,SO2 Control,NOx Control,Hg Control,Variable O&M (2016$/mills/kWh),vom_updated
+Biomass,--,--,--,7.29,7.29
+Coal Steam,No SO2 Control,No NOx Control,No Hg Control,1.43,1.43
+Coal Steam,No SO2 Control,No NOx Control,ACI,2.9,2.9
+Coal Steam,No SO2 Control,SCR,No Hg Control,2.39,2.39
+Coal Steam,No SO2 Control,SCR,ACI,3.86,3.86
+Coal Steam,No SO2 Control,SNCR,No Hg Control,2.36,2.36
+Coal Steam,No SO2 Control,SNCR,ACI,3.83,3.83
+Coal Steam,Dry FGD,No NOx Control,No Hg Control,3.5,3.5
+Coal Steam,Dry FGD,No NOx Control,ACI,4.97,4.97
+Coal Steam,Dry FGD,SCR,No Hg Control,4.46,4.46
+Coal Steam,Dry FGD,SCR,ACI,5.93,5.93
+Coal Steam,Dry FGD,SNCR,No Hg Control,4.43,4.43
+Coal Steam,Dry FGD,SNCR,ACI,5.9,5.9
+Coal Steam,Wet FGD,No NOx Control,No Hg Control,3.95,3.95
+Coal Steam,Wet FGD,No NOx Control,ACI,5.43,5.43
+Coal Steam,Wet FGD,SCR,No Hg Control,4.91,4.91
+Coal Steam,Wet FGD,SCR,ACI,6.39,6.39
+Coal Steam,Wet FGD,SNCR,No Hg Control,4.88,4.88
+Coal Steam,Wet FGD,SNCR,ACI,6.35,6.35
+Coal Steam,DSI,No NOx Control,No Hg Control,8.21,8.21
+Coal Steam,DSI,No NOx Control,ACI,9.68,9.68
+Coal Steam,DSI,SCR,No Hg Control,9.17,9.17
+Coal Steam,DSI,SCR,ACI,10.64,10.64
+Coal Steam,DSI,SNCR,No Hg Control,9.14,9.14
+Coal Steam,DSI,SNCR,ACI,10.61,10.61
+Combined Cycle,No SO2 Control,No NOx Control,No Hg Control,1.98 - 3.78,2.88
+Combined Cycle,No SO2 Control,SCR,No Hg Control,2.12 - 3.92,3.02
+Combined Cycle,No SO2 Control,SNCR,No Hg Control,2.61 - 4.41,3.51
+Combustion Turbine,No SO2 Control,No NOx Control,No Hg Control,3.31 - 15.7,9.505
+Combustion Turbine,No SO2 Control,SCR,No Hg Control,3.45 - 15.84,9.645
+Combustion Turbine,No SO2 Control,SNCR,No Hg Control,3.94 - 16.33,10.135
+Fuel Cell,--,--,--,44.91,44.91
+Geothermal,--,--,--,5.49,5.49
+Hydro,--,--,--,2.66,2.66
+IGCC,--,--,--,2.28-4.04,3.16
+Landfill Gas / Municipal Solid Waste,--,--,--,6.54,6.54
+O/G Steam,No SO2 Control,No NOx Control,No Hg Control,0.83,0.83
+O/G Steam,No SO2 Control,SCR,No Hg Control,0.97,0.97
+O/G Steam,No SO2 Control,SNCR,No Hg Control,1.46,1.46
+Pumped Storage,--,--,--,10.17,10.17
+Solar PV,--,--,--,0,0
+Solar Thermal,--,--,--,0,0
+Wind,--,--,--,0,0
