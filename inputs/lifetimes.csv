@@ -22,7 +22,7 @@ Gas-CC-NSP,60,60,100
 Coal-CCS-NSP,65,75,100
 Nuclear-NSP,60,60,100
 pumped-hydro,100,100,100
-battery,15,15,100
+battery_4,15,15,100
 CAES,75,75,100
 wind-ofs,30,30,100
 wind-ons,30,30,100

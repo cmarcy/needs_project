@@ -1,4 +1,4 @@
-GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 04/27/21 17:03:30 Page 1
+GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 09/10/21 14:17:35 Page 1
 G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
 C o m p i l a t i o n
 
@@ -107,7 +107,7 @@ GDXIN   C:\Users\CMARCY\OneDrive - Environmental Protection Agency (EPA)\Desktop
   78  execute_unload 'PrescriptiveRetirements_EIA-NEMS.gdx' Nuke60RetireYear, Nu
       ke80RetireYear, NukeRefRetireYear, NukeEarlyRetireYear, PrescriptiveRet, W
       indRetireExisting, WindRetirePrescribed ;
-GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 04/27/21 17:03:30 Page 2
+GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 09/10/21 14:17:35 Page 2
 G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
 Include File Summary
 
@@ -120,7 +120,7 @@ Include File Summary
                                           enerator\creating_gdx_files\csv2gdx_co
                                           nverter.gms
      2        6 CALL           1       6  csv2gdx CONVOLDqctn.csv id=d index=1..
-                                          3 values=lastCol useHeader=y trace=0
+                                          5 values=lastCol useHeader=y trace=0
      3        7 GDXIN          1       7  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
                                           projects\plantfile\NEEDS_project\gdx_g
@@ -142,7 +142,7 @@ Include File Summary
                                           enerator\needs_output\PrescriptiveBuil
                                           dsNonQn.gdx
      8       18 CALL           1      18  csv2gdx PrescriptiveBuildsnqct.csv id=
-                                          d index=1..4 values=lastCol useHeader=
+                                          d index=1..6 values=lastCol useHeader=
                                           y trace=0
      9       19 GDXIN          1      19  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
@@ -166,7 +166,7 @@ Include File Summary
                                           enerator\needs_output\PrescriptiveBuil
                                           dsWind.gdx
     14       30 CALL           1      30  csv2gdx Nuke60RetireYear.csv id=d inde
-                                          x=1..4 values=lastCol useHeader=y trac
+                                          x=1..6 values=lastCol useHeader=y trac
                                           e=0
     15       31 GDXIN          1      31  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
@@ -174,7 +174,7 @@ Include File Summary
                                           enerator\needs_output\Nuke60RetireYear
                                           .gdx
     16       34 CALL           1      34  csv2gdx Nuke80RetireYear.csv id=d inde
-                                          x=1..4 values=lastCol useHeader=y trac
+                                          x=1..6 values=lastCol useHeader=y trac
                                           e=0
     17       35 GDXIN          1      35  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
@@ -182,7 +182,7 @@ Include File Summary
                                           enerator\needs_output\Nuke80RetireYear
                                           .gdx
     18       38 CALL           1      38  csv2gdx NukeRefRetireYear.csv id=d ind
-                                          ex=1..4 values=lastCol useHeader=y tra
+                                          ex=1..6 values=lastCol useHeader=y tra
                                           ce=0
     19       39 GDXIN          1      39  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
@@ -190,7 +190,7 @@ Include File Summary
                                           enerator\needs_output\NukeRefRetireYea
                                           r.gdx
     20       42 CALL           1      42  csv2gdx NukeEarlyRetireYear.csv id=d i
-                                          ndex=1..4 values=lastCol useHeader=y t
+                                          ndex=1..6 values=lastCol useHeader=y t
                                           race=0
     21       43 GDXIN          1      43  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
@@ -198,7 +198,7 @@ Include File Summary
                                           enerator\needs_output\NukeEarlyRetireY
                                           ear.gdx
     22       46 CALL           1      46  csv2gdx PrescriptiveRet.csv id=d index
-                                          =1..4 values=lastCol useHeader=y trace
+                                          =1..6 values=lastCol useHeader=y trace
                                           =0
     23       47 GDXIN          1      47  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
@@ -221,7 +221,7 @@ Include File Summary
                                           projects\plantfile\NEEDS_project\gdx_g
                                           enerator\needs_output\WindRetirePrescr
                                           ibed.gdx
-    28       58 CALL           1      58  csv2gdx tmpCSPOct.csv id=d index=1..2 
+    28       58 CALL           1      58  csv2gdx tmpCSPOct.csv id=d index=1..3 
                                           values=lastCol useHeader=y trace=0
     29       59 GDXIN          1      59  C:\Users\CMARCY\OneDrive - Environment
                                           al Protection Agency (EPA)\Desktop\py_
@@ -247,13 +247,13 @@ Include File Summary
                                           enerator\needs_output\tmpWTOi.gdx
 
 
-COMPILATION TIME     =        9.875 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
-GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 04/27/21 17:03:30 Page 3
+COMPILATION TIME     =        8.782 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
+GAMS 24.9.2  r64480 Released Nov 14, 2017 WEX-WEI x86 64bit/MS Windows 09/10/21 14:17:35 Page 3
 G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
 E x e c u t i o n
 
 
-EXECUTION TIME       =        0.031 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
+EXECUTION TIME       =        0.125 SECONDS      4 MB  24.9.2 r64480 WEX-WEI
 
 
 USER: Large MUD - 20 User License                    G170913:1610CS-WIN

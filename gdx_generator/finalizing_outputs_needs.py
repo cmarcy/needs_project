@@ -41,7 +41,7 @@ coal_new_ind = (CONVOLDqctn['tech'].isin(['CoalOldScr','CoalOldUns'])) & (CONVOL
 CONVOLDqctn.loc[coal_new_ind,'tech'] = 'coal-new'
 includers = (CONVOLDqctn['tech'].isin(qctn)) & (CONVOLDqctn['IsExistUnit'] == True) & (CONVOLDqctn['Commercial.Online.Year']<2010)
 CONVOLDqctn = CONVOLDqctn[includers].reset_index(drop=True)
-CONVOLDqctn = CONVOLDqctn[['tech','pca','coolingwatertech','cap']].groupby(by=['tech','pca','coolingwatertech'], as_index=False).sum().reset_index(drop=True)
+CONVOLDqctn = CONVOLDqctn[['tech','coolingwatertech','pca','ctt','wst','cap']].groupby(by=['tech','coolingwatertech','pca','ctt','wst'], as_index=False).sum().reset_index(drop=True)
 
 import_store_power_cap_at_grid = nems[nems['tech'].isin(['pumped-hydro','battery'])][['tech','coolingwatertech','pca','cap','IsExistUnit','Commercial.Online.Year']].reset_index(drop=True)
 includers = (import_store_power_cap_at_grid['IsExistUnit']==True) & (import_store_power_cap_at_grid['Commercial.Online.Year']<2010)
@@ -51,7 +51,7 @@ import_store_power_cap_at_grid = import_store_power_cap_at_grid[['tech','pca','c
 tmpCSPOct = nems[nems['tech']=='csp-ns'][['tech','pca','resource_region','ctt','wst','cap','IsExistUnit','Commercial.Online.Year']].reset_index(drop=True)
 includers = (tmpCSPOct['IsExistUnit']==True) & (tmpCSPOct['Commercial.Online.Year']<2010)
 tmpCSPOct = tmpCSPOct[includers].reset_index(drop=True)
-tmpCSPOct = tmpCSPOct[['resource_region','ctt','cap']].groupby(by=['resource_region','ctt'], as_index=False).sum()
+tmpCSPOct = tmpCSPOct[['resource_region','ctt','wst','cap']].groupby(by=['resource_region','ctt','wst'], as_index=False).sum()
 
 tmpDUPVOn = nems[nems['tech']=='DUPV'][['tech','pca','ctt','wst','cap','IsExistUnit','Commercial.Online.Year']].reset_index(drop=True)
 includers = (tmpDUPVOn['IsExistUnit']==True) & (tmpDUPVOn['Commercial.Online.Year']<2010)
@@ -82,7 +82,7 @@ PrescriptiveBuildsnqct = nems[nems['tech'].isin(qctn)].copy()
 coal_new_ind = (PrescriptiveBuildsnqct['tech'].isin(['CoalOldScr','CoalOldUns'])) & (PrescriptiveBuildsnqct['Commercial.Online.Year']>=1995)
 PrescriptiveBuildsnqct.loc[coal_new_ind,'tech'] = 'coal-new'
 PrescriptiveBuildsnqct = PrescriptiveBuildsnqct[PrescriptiveBuildsnqct['Commercial.Online.Year']>=2010]
-PrescriptiveBuildsnqct = PrescriptiveBuildsnqct[['Commercial.Online.Year','pca','tech','coolingwatertech','cap']].groupby(by=['Commercial.Online.Year','pca','tech','coolingwatertech'], as_index=False).sum()
+PrescriptiveBuildsnqct = PrescriptiveBuildsnqct[['Commercial.Online.Year','pca','tech','coolingwatertech','ctt','wst','cap']].groupby(by=['Commercial.Online.Year','pca','tech','coolingwatertech','ctt','wst'], as_index=False).sum()
 
 PrescriptiveBuildsStorage = nems[nems['tech'].isin(['pumped-hydro','battery'])].copy()
 PrescriptiveBuildsStorage = PrescriptiveBuildsStorage[PrescriptiveBuildsStorage['Commercial.Online.Year']>=2010]
@@ -100,31 +100,31 @@ Nuke60RetireYear = nems[nems['IsExistUnit']==True].copy()
 coal_new_ind = (Nuke60RetireYear['tech'].isin(['CoalOldScr','CoalOldUns'])) & (Nuke60RetireYear['Commercial.Online.Year']>=1995)
 Nuke60RetireYear.loc[coal_new_ind,'tech'] = 'coal-new'
 Nuke60RetireYear = Nuke60RetireYear[Nuke60RetireYear['tech'].isin(qctn)].reset_index(drop=True)
-Nuke60RetireYear = Nuke60RetireYear[['Nuke60RetireYear','pca','tech','coolingwatertech','cap']].groupby(by=['Nuke60RetireYear','pca','tech','coolingwatertech'], as_index=False).sum()
+Nuke60RetireYear = Nuke60RetireYear[['Nuke60RetireYear','pca','tech','coolingwatertech','ctt','wst','cap']].groupby(by=['Nuke60RetireYear','pca','tech','coolingwatertech','ctt','wst'], as_index=False).sum()
 
 Nuke80RetireYear = nems[nems['IsExistUnit']==True].copy()
 coal_new_ind = (Nuke80RetireYear['tech'].isin(['CoalOldScr','CoalOldUns'])) & (Nuke80RetireYear['Commercial.Online.Year']>=1995)
 Nuke80RetireYear.loc[coal_new_ind,'tech'] = 'coal-new'
 Nuke80RetireYear = Nuke80RetireYear[Nuke80RetireYear['tech'].isin(qctn)].reset_index(drop=True)
-Nuke80RetireYear = Nuke80RetireYear[['Nuke80RetireYear','pca','tech','coolingwatertech','cap']].groupby(by=['Nuke80RetireYear','pca','tech','coolingwatertech'], as_index=False).sum()
+Nuke80RetireYear = Nuke80RetireYear[['Nuke80RetireYear','pca','tech','coolingwatertech','ctt','wst','cap']].groupby(by=['Nuke80RetireYear','pca','tech','coolingwatertech','ctt','wst'], as_index=False).sum()
 
 NukeRefRetireYear = nems[nems['IsExistUnit']==True].copy()
 coal_new_ind = (NukeRefRetireYear['tech'].isin(['CoalOldScr','CoalOldUns'])) & (NukeRefRetireYear['Commercial.Online.Year']>=1995)
 NukeRefRetireYear.loc[coal_new_ind,'tech'] = 'coal-new'
 NukeRefRetireYear = NukeRefRetireYear[NukeRefRetireYear['tech'].isin(qctn)].reset_index(drop=True)
-NukeRefRetireYear = NukeRefRetireYear[['NukeRefRetireYear','pca','tech','coolingwatertech','cap']].groupby(by=['NukeRefRetireYear','pca', 'tech','coolingwatertech'], as_index=False).sum()
+NukeRefRetireYear = NukeRefRetireYear[['NukeRefRetireYear','pca','tech','coolingwatertech','ctt','wst','cap']].groupby(by=['NukeRefRetireYear','pca', 'tech','coolingwatertech','ctt','wst'], as_index=False).sum()
 
 NukeEarlyRetireYear = nems[nems['IsExistUnit']==True].copy()
 coal_new_ind = (NukeEarlyRetireYear['tech'].isin(['CoalOldScr','CoalOldUns'])) & (NukeEarlyRetireYear['Commercial.Online.Year']>=1995)
 NukeEarlyRetireYear.loc[coal_new_ind,'tech'] = 'coal-new'
 NukeEarlyRetireYear = NukeEarlyRetireYear[NukeEarlyRetireYear['tech'].isin(qctn)].reset_index(drop=True)
-NukeEarlyRetireYear = NukeEarlyRetireYear[['NukeEarlyRetireYear','pca','tech', 'coolingwatertech','cap']].groupby(by=['NukeEarlyRetireYear','pca','tech', 'coolingwatertech'], as_index=False).sum()
+NukeEarlyRetireYear = NukeEarlyRetireYear[['NukeEarlyRetireYear','pca','tech', 'coolingwatertech','ctt','wst','cap']].groupby(by=['NukeEarlyRetireYear','pca','tech', 'coolingwatertech','ctt','wst'], as_index=False).sum()
 
 PrescriptiveRet = nems[nems['IsExistUnit']==True].copy()
 coal_new_ind = (PrescriptiveRet['tech'].isin(['CoalOldScr','CoalOldUns'])) & (PrescriptiveRet['Commercial.Online.Year']>=1995)
 PrescriptiveRet.loc[coal_new_ind,'tech'] = 'coal-new'
 PrescriptiveRet = PrescriptiveRet[PrescriptiveRet['tech'].isin(qctn)].reset_index(drop=True)
-PrescriptiveRet = PrescriptiveRet[['RetireYear','pca','tech','coolingwatertech','cap']].groupby(by=['RetireYear','pca','tech','coolingwatertech'], as_index=False).sum()
+PrescriptiveRet = PrescriptiveRet[['RetireYear','pca','tech','coolingwatertech','ctt','wst','cap']].groupby(by=['RetireYear','pca','tech','coolingwatertech','ctt','wst'], as_index=False).sum()
 
 WindRetireExisting = nems[nems['IsExistUnit']==True].copy()
 WindRetireExisting = WindRetireExisting[WindRetireExisting['tech'].isin(['wind-ons','wind-ofs'])].reset_index(drop=True)
